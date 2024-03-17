@@ -33,6 +33,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Genial Lokal](https://www.genialokal.de) (Plattform zum Suchen nach lokalen Buchhandlungen)
 * [Lehmanns](https://www.lehmanns.de) (der Klassiker)
 * [Links Lesen](https://links-lesen.de) (linker Online Buchladen, selbstverwalteter Kollektivbetrieb)
+* [Wob](https://www.wob.com/de-de) (2nd Hand)
 
 ### 🥘 Ernährung
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
@@ -48,6 +49,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
+* [Kurbelix](https://kurbelix.de) (Günstige Fahrradteile wie Laufräder & Laufradsätze im Online Shop kaufen)
 
 ### 🎁 Geschenke / Kunst / Postkarten
 * [Kwimbi](https://kwimbi.de)
@@ -72,7 +74,9 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Discogs](https://www.discogs.com)
 * [jpc](https://www.jpc.de)
 * [mpb](https://www.mpb.com/de-de) (hochwertige, gebrauchte Foto- und Kameraausrüstung)
+* Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at) (2nd Hand)
 * [Music Store](https://musicstore.de) (MUSIC STORE professional - Online-Shop für Musikinstrumente)
+* Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at) (2nd Hand)
 
 ### 🔏 Schreibwaren und Zubehör
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
@@ -99,7 +103,10 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
 * [ITSCO](https://www.itsco.de) (gebrauchtes IT-Equipment)
 * [Medimops](https://www.medimops.de)
+* Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at)
+* Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at)
 * Refurbed: [🇩🇪](https://www.refurbed.de) / [🇦🇹](https://www.refurbed.at)
+* [Wob](https://www.wob.com/de-de) (Bücher, Musik, Filme)
 
 ### 🖨️ 3D Druck
 * [Das Filament](https://www.dasfilament.de)
