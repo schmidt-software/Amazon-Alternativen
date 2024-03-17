@@ -15,6 +15,7 @@ Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser 
 * [Fantasy Welt](https://www.fantasywelt.de)
 * [SciFi-Trader](https://scifi-trader.de) (Battle-Tech)
 * [Spiele Offensive](https://spiele-offensive.de)
+* [Lurch & Lama](https://lurchundlama.de) (Spiele und Merch)
 
 ### 📚 Bücher
 * [Autorenwelt](https://shop.autorenwelt.de) (geben 7% der Buchhandelmarge an die Autor*innen des verkauften Buchs ab)
