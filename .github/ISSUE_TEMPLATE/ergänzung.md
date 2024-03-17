@@ -3,7 +3,7 @@ name: Ergänzung
 about: Vorschlag/Vorschläge für die Liste
 title: 'Ergänzung: == Dein Subject =='
 labels: Ergänzung
-assignees: ''
+assignees: phranck
 
 ---
 
