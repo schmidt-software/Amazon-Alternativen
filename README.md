@@ -71,7 +71,8 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ### 🎁 Geschenke / Kunst / Postkarten
 * [Kwimbi](https://kwimbi.de)
 
-### 🐕🐈 Haustiere
+### 🐈 Haustiere
+* [Non-Stop Dogwear](https://www.nonstopdogwear.com/de/) (alles für den Hund, Shop in Norwegen, liefert rasch und unkompliziert in die D-A-CH Region)
 * zooplus [🇩🇪](https://www.zooplus.de) / [🇦🇹](https://www.zooplus.at)
 
 ### 🧢 Klamotten
@@ -115,9 +116,6 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [HD-Toner](https://www.hd-toner.de) (Tinte, Toner aus Uelzen)
 * [memo](https://www.memo.de/) (Bürobedarf, Bürotechnik etc.)
 * [Papier & Stift](https://www.papierundstift.de)
-
-### 🐈 Tierbedarf
-* [Non-Stop Dogwear](https://www.nonstopdogwear.com/de/) (alles für den Hund, Shop in Norwegen, liefert rasch und unkompliziert in die D-A-CH Region)
 
 ### 📺 Unterhaltungselektronik
 * AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
