@@ -70,6 +70,9 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ### 🎁 Geschenke / Kunst / Postkarten
 * [Kwimbi](https://kwimbi.de)
 
+### 🐕🐈 Haustiere
+* zooplus [🇩🇪](https://www.zooplus.de) / [🇦🇹](https://www.zooplus.at)
+
 ### 🧢 Klamotten
 * [About You](https://www.aboutyou.at)
 * [avocadostore](https://www.avocadostore.de)
@@ -106,17 +109,19 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
 
 ### 🔏 Schreibwaren und Bürobedarf
+* [FairToner](https://www.fairtoner.de)
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
 * [HD-Toner](https://www.hd-toner.de) (Tinte, Toner aus Uelzen)
 * [memo](https://www.memo.de/) (Bürobedarf, Bürotechnik etc.)
 * [Papier & Stift](https://www.papierundstift.de)
 
-### 📺 Unterthaltungselektronik
+### 📺 Unterhaltungselektronik
 * AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
 * [AZ-Delivery](https://www.az-delivery.de) (elektronische Bauteile und -Komponenten)
 * Berrybase: [🇩🇪](https://www.berrybase.de) / [🇦🇹](https://www.berrybase.at)
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
+* [Elektroshop Wagner](https://www.elektroshopwagner.de)
 * [Fairphone](https://shop.fairphone.com/)
 * [funk24](https://shop.funk24.net)
 * Frame.work: [🇩🇪](https://frame.work/de/de) / [🇦🇹](https://frame.work/at/de) (modulare und vor allem reparierbare(!) Laptops)
@@ -125,10 +130,12 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
 * [RasppiShop](https://www.rasppishop.de)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
+* [Shelly](https://www.shelly.com/)
 * [Shift](https://shop.shiftphones.com/)
 * [Tindie](https://www.tindie.com) (massig DYI Hardware Nerd Kram)
 
 ### 🛠️ Werkzeuge / DIY / Handwerken
+* [Elektroshop Wagner](https://www.elektroshopwagner.de)
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [Grey Element](https://grey-element.shop)
 * [Kunstpark](Kunstpark-Shop.de) (Künstlerbedarf, Bastelbedarf, Zeichenbedarf)
