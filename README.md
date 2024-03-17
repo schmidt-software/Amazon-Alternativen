@@ -131,6 +131,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ### 📺 Unterhaltungselektronik
 * AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
 * [AZ-Delivery](https://www.az-delivery.de) (elektronische Bauteile und -Komponenten)
+* ELV [🇩🇪](https://de.elv.com) / [🇨🇭](https://ch.elv.com) (elektronische Bauteile und -Komponenten)
 * Berrybase: [🇩🇪](https://www.berrybase.de) / [🇦🇹](https://www.berrybase.at)
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
