@@ -19,6 +19,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 
 ### 🧩 Brettspiele / Tabletop / Rollenspiele
 * [Fantasy Welt](https://www.fantasywelt.de)
+* [GaiaGames](https://gaiagames.de) (lehrreiche und kooperative Brettspiele, umweltschonend produziert)
 * [Lurch & Lama](https://lurchundlama.de) (Spiele und Merch)
 * [SciFi-Trader](https://scifi-trader.de) (Battle-Tech)
 * [Spiele Offensive](https://spiele-offensive.de)
@@ -59,6 +60,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 
 ### 🧢 Klamotten
 * [About You](https://www.aboutyou.at)
+* [avocadostore](https://www.avocadostore.de)
 * [DarkAges](https://www.darkages.de) (Goth/Szene)
 * [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
 * [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
@@ -83,9 +85,10 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at) (2nd Hand)
 * [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
 
-### 🔏 Schreibwaren und Zubehör
+### 🔏 Schreibwaren und Bürobedarf
 * [FairToner](https://www.fairtoner.de)
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
+* [memo](https://www.memo.de/) (Bürobedarf, Bürotechnik etc.)
 * [Papier & Stift](https://www.papierundstift.de)
 
 ### 📺 Unterhaltungselektronik
@@ -114,6 +117,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Online-Schrauben](https://online-schrauben.de)
 
 ### 🏡 Wohnen
+* [avocadostore](https://www.avocadostore.de)
 * [IKEA](https://www.ikea.com)
 
 ### 💶 2nd Hand / Refurbished
