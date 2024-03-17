@@ -1,5 +1,5 @@
 # Amazon-Alternativen
-Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser Plattform einschränken wolltet, dann nutzt un beteiligt euch am Ausbau dieser Liste. Das ist eine lose Sammlung von Online-Shops (gerne auch mal direkt beim Hersteller), die es Wert sind, dass man bei ihnen bestellt.
+Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser Plattform einschränken wolltet, dann nutzt und beteiligt euch am Ausbau dieser Liste. Das ist eine lose Sammlung von Online-Shops (gerne auch mal direkt beim Hersteller), die es Wert sind, dass man bei ihnen bestellt.
 
 #### **HINWEIS**  
 Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlungen vorher an. Nicht böse sein, sollte ich mal den einen oder anderen Vorschlag übersehen/vergessen.
@@ -10,7 +10,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Akkurat: [Akkurat](https://akkurat-gsv.de/shop) (Shop für erneuerbare Energien)
 * AvocadoStore: [🇩🇪](https://www.avocadostore.de) / [🇦🇹](https://www.avocadostore.at) (Marketplace für faire, nachhaltige oder vegane Produkte, vor allem Textilien und Haushaltsgegenstände)
 * [Galaxus](https://www.galaxus.de)
-* Gartenkraftwerke: [gartenkraftwerke]https://gartenkraftwerke.de) (Shop für erneuerbare Energien)
+* Gartenkraftwerke: [Gartenkraftwerke](https://gartenkraftwerke.de) (Shop für erneuerbare Energien)
 * Memo AG: [Privatkunden](https://www.memolife.de/) / [Geschäftskunden](https://www.memo.de/) (Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt-klima/logistik/memo-box/) und [Radlogistik](https://www.memoworld.de/radlogistik/))
 * Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)
@@ -23,6 +23,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Fantasy Welt](https://www.fantasywelt.de)
 * [GaiaGames](https://gaiagames.de) (lehrreiche und kooperative Brettspiele, umweltschonend produziert)
 * [Lurch & Lama](https://lurchundlama.de) (Spiele und Merch)
+* [Milan Spiele](https://www.milan-spiele.de)
 * [SciFi-Trader](https://scifi-trader.de) (Battle-Tech)
 * [Spiele Offensive](https://spiele-offensive.de)
 
@@ -39,7 +40,6 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Links Lesen](https://links-lesen.de) (linker Online Buchladen, selbstverwalteter Kollektivbetrieb)
 * [Wob](https://www.wob.com/de-de) (2nd Hand)
 * [yourbook](https://yourbook.shop) (Deine Stammbuchhandlung bekommt dann 15% von allen Einkäufen, die du bei yourbook machst. Wenn Dir Deine Buchhandlung bei yourbook ein Buch empfiehlt und du es kaufst, bekommt sie sogar 25%.)
-* [ZVAB](https://www.zvab.com) (Bücher Antiquariat)
 
 ### 🥘 Ernährung
 * [Aroma Zapatista](https://www.aroma-zapatista.de) (ein Kollektiv aus Hamburg, das vor allem sehr leckeren Kaffee (aber auch Tee) von genossenschaftlich organisierten indigenen Kleinbauern aus Lateinamerika ohne Zwischenhändler anbietet)
@@ -49,11 +49,15 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
+* [Lauteracher Feldfrüchte](https://lauteracher.de/shop/) (Linsen, Buchweizen, Getreide, Ölsaaten & Öle, Nudeln, Gewürze)
+* [Knauf Biohof](https://www.biolandhof-knauf.de/onlineshop/) (Bioland Getriede)
 * [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
+* [Koro](https://www.korodrogerie.de) (Lebensmittel)
 * [Marktschwärmer](https://marktschwaermer.de/de) (Regional einkaufen, online bestellen, in der Nähe abholen (Wenn es eine örtliche Marktschwärmerei gibt))
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Rapunzel](https://shop.rapunzel.de) (Naturkost)
 * [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
+* [Schwarzwald Miso](https://www.schwarzwald-miso.de) (Bio Miso aus dem Schwarzwald, vegan)
 * [SirPlus](https://sirplus.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
 * [Sonnentor](https://www.sonnentor.com/de-at/onlineshop) (Bio-Tees & Bio-Gewürze)
@@ -61,6 +65,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Tee Gschwendner](https://www.teegschwendner.de) (Tee und Zubehör, gibt auch lokale Filialen)
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
 * [Teekiste](https://www.teekiste.com) (Tee, Porzellan, Samoware)
+* [Überlegen](https://www.ueberlegen.online/) (Ein Online-Marktplatz für hochwertige und authentische Kaffees von Röstereien, die außergewöhnliches Engagement im Kaffeehandel zeigen)
 * [Urkornpuristen](https://urkornpuristen.de) (Urkorngetreide aus eigenem Anbau, ganzes Korn oder Mehl)
 
 ### 🚲 Fahrräder und Zubehör
@@ -71,7 +76,8 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ### 🎁 Geschenke / Kunst / Postkarten
 * [Kwimbi](https://kwimbi.de)
 
-### 🐕🐈 Haustiere
+### 🐈 Haustiere
+* [Non-Stop Dogwear](https://www.nonstopdogwear.com/de/) (alles für den Hund, Shop in Norwegen, liefert rasch und unkompliziert in die D-A-CH Region)
 * zooplus [🇩🇪](https://www.zooplus.de) / [🇦🇹](https://www.zooplus.at)
 
 ### 🧢 Klamotten
@@ -79,6 +85,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [avocadostore](https://www.avocadostore.de)
 * [DarkAges](https://www.darkages.de) (Goth/Szene)
 * [Doghammer](https://www.doghammer.de) (Schuhe aus Deutschland, auch vegane Schuhe)
+* [Ehrlich Textil](https://erlich-textil.com) (Faire und nachhaltige Unterwäsche, vegan)
 * [Frija Omina](https://www.frija-omina.com) (nachhaltige Unterwäsche, Bademode und andere Klamotten, hergestellt in Brandenburg)
 * [Grundstoff](https://www.grundstoff.net) (vertreibt [Marken](https://www.grundstoff.net/herstellerinfos), deren Klamotten fair und nachhaltig hergestellt werden)
 * [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
@@ -86,12 +93,14 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Native Souls](https://www.nativesouls.de) (fair trade Mode, organic, nachhaltig und vegan)
 * [Picksports](https://www.picksport.de) (Klamottenoutlet - sportlastig)
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
+* [Taynie](https://taynie.de) (Periodenunterwäsche, vegan, frei von Bioziden, 60°C waschbar, Tampons, Binden, Cups, Socken, Shorts & Socken für Männer)
 * Vinted: [🇩🇪](https://vinted.de) / [🇦🇹](https://vinted.at) (2nd Hand)
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
 * [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
 
 ### 🧴 Kosmetik / Drogerie
+* [Ben & Anna](https://ben-anna.de) (Körperpflege, vegan, frei von Plastik)
 * [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
 * [natur Pur](https://www.shop-naturpur.de) (Natur Kosmetik)
 * [Rosenrot](https://www.rosenrot.de) (Pionier im Bereich der natürlichen Haar- und Körperpflege in fester Form)
@@ -109,6 +118,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Music Store](https://musicstore.de) (MUSIC STORE professional - Online-Shop für Musikinstrumente)
 * Qobuz: [🇩🇪](https://www.qobuz.com/de-de/) / [🇦🇹](https://www.qobuz.com/at-de/)
 * Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at) (2nd Hand)
+* [Session](https://www.session.de) (Musikinstrumente)
 * [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
 
 ### 🔏 Schreibwaren und Bürobedarf
@@ -133,7 +143,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [MyLemon](https://mylemon.at)
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
 * [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
-* [Pollin](https://www.pollin.de) (oft sehr gute Angebote bei Shelly-Komponenten)
+* Pollin: [🇩🇪](https://www.pollin.de) / [🇦🇹](https://www.pollin.at) (oft sehr gute Angebote bei Shelly-Komponenten)
 * [RasppiShop](https://www.rasppishop.de)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 * [Shelly](https://www.shelly.com/)
@@ -172,7 +182,12 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [extrudr](https://www.extrudr.com/de/shop-eu/?locale=de) (österr. Firma, direkt bei mir umme Ecke 😃)
 * [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in [deren Shop](https://recyclingfabrik.com/shop/) erwerben kannst)
 
-## Support
+### ⛵️ Segeln
+* [12 Seemeilen](https://www.12seemeilen.de) (Bootszubehör und Segelbekleidung)
+* [Compas 24](https://www.compass24.de) (Bootszubehör, Wassersport, Segelbekleidung & Yachtzubehör)
+  
+
+## Mitmachen
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen senden mir bitte ihre Vorschläge via Mastodon an [@phranck](https://chaos.social/@phranck). Ihr dürft auch gerne die Hashtags [\#AmazonAlternative](https://chaos.social/deck/tags/AmazonAlternative) und/oder [\#AmazonAlternativen](https://chaos.social/deck/tags/AmazonAlternativen) verwenden, ich folge diesen Tags.
 
 Bitte die Einträge entsprechend ihrer Kategorie alphabetisch sortiert eintragen (als wäre alles klein geschrieben). Danke. 🙏
