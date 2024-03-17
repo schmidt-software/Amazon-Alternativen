@@ -69,6 +69,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Teekiste](https://www.teekiste.com) (Tee, Porzellan, Samoware)
 * [Überlegen](https://www.ueberlegen.online/) (Ein Online-Marktplatz für hochwertige und authentische Kaffees von Röstereien, die außergewöhnliches Engagement im Kaffeehandel zeigen)
 * [Urkornpuristen](https://urkornpuristen.de) (Urkorngetreide aus eigenem Anbau, ganzes Korn oder Mehl)
+* [Waldis Pizza](https://www.waldispizza.de) (Alles rund um Pizza: Mehl, Werkzeuge, Pizzaöfen, Zubehör etc.)
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
