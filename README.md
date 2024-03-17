@@ -7,8 +7,10 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ---
 
 ### 🏪 Allgemein (gemischte Produktauswahl)
+* Akkurat: [Akkurat](https://akkurat-gsv.de/shop) (Shop für erneuerbare Energien)
 * AvocadoStore: [🇩🇪](https://www.avocadostore.de) / [🇦🇹](https://www.avocadostore.at) (Marketplace für faire, nachhaltige oder vegane Produkte, vor allem Textilien und Haushaltsgegenstände)
 * [Galaxus](https://www.galaxus.de)
+* Gartenkraftwerke: [gartenkraftwerke]https://gartenkraftwerke.de) (Shop für erneuerbare Energien)
 * Memo AG: [Privatkunden](https://www.memolife.de/) / [Geschäftskunden](https://www.memo.de/) (Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt-klima/logistik/memo-box/) und [Radlogistik](https://www.memoworld.de/radlogistik/))
 * Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)
@@ -47,6 +49,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
+* [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
 * [Marktschwärmer](https://marktschwaermer.de/de) (Regional einkaufen, online bestellen, in der Nähe abholen (Wenn es eine örtliche Marktschwärmerei gibt))
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Rapunzel](https://shop.rapunzel.de) (Naturkost)
@@ -62,6 +65,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
+* [Bikehit](https://www.bikehit.de) (Fahrräder und Fahrradteile aus Dresden)
 * [Kurbelix](https://kurbelix.de) (Günstige Fahrradteile wie Laufräder & Laufradsätze im Online Shop kaufen)
 
 ### 🎁 Geschenke / Kunst / Postkarten
@@ -75,19 +79,23 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [avocadostore](https://www.avocadostore.de)
 * [DarkAges](https://www.darkages.de) (Goth/Szene)
 * [Doghammer](https://www.doghammer.de) (Schuhe aus Deutschland, auch vegane Schuhe)
+* [Frija Omina](https://www.frija-omina.com) (nachhaltige Unterwäsche, Bademode und andere Klamotten, hergestellt in Brandenburg)
 * [Grundstoff](https://www.grundstoff.net) (vertreibt [Marken](https://www.grundstoff.net/herstellerinfos), deren Klamotten fair und nachhaltig hergestellt werden)
 * [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
 * [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
 * [Native Souls](https://www.nativesouls.de) (fair trade Mode, organic, nachhaltig und vegan)
+* [Picksports](https://www.picksport.de) (Klamottenoutlet - sportlastig)
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
+* Vinted: [🇩🇪](https://vinted.de) / [🇦🇹](https://vinted.at) (2nd Hand)
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
 * [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
 
-### 🧴 Kosmetik
+### 🧴 Kosmetik / Drogerie
 * [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
 * [natur Pur](https://www.shop-naturpur.de) (Natur Kosmetik)
 * [Rosenrot](https://www.rosenrot.de) (Pionier im Bereich der natürlichen Haar- und Körperpflege in fester Form)
+* [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
 
 ### 🍿 Musik / Foto / Video / Unterhaltung
 * [Bandcamp](https://bandcamp.com) (direkt vom Künstler kaufen)
@@ -104,6 +112,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ### 🔏 Schreibwaren und Bürobedarf
 * [FairToner](https://www.fairtoner.de)
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
+* [HD-Toner](https://www.hd-toner.de) (Tinte, Toner aus Uelzen)
 * [memo](https://www.memo.de/) (Bürobedarf, Bürotechnik etc.)
 * [Papier & Stift](https://www.papierundstift.de)
 
@@ -114,8 +123,9 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
-* [Fairphone] (https://shop.fairphone.com/)
+* [Fairphone](https://shop.fairphone.com/)
 * [funk24](https://shop.funk24.net)
+* Frame.work: [🇩🇪](https://frame.work/de/de) / [🇦🇹](https://frame.work/at/de) (modulare und vor allem reparierbare(!) Laptops)
 * [MyLemon](https://mylemon.at)
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
 * [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
@@ -123,6 +133,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 * [Shelly](https://www.shelly.com/)
 * [Shift](https://shop.shiftphones.com/)
+* [Tindie](https://www.tindie.com) (massig DYI Hardware Nerd Kram)
 
 ### 🛠️ Werkzeuge / DIY / Handwerken
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
@@ -131,6 +142,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Kunstpark](Kunstpark-Shop.de) (Künstlerbedarf, Bastelbedarf, Zeichenbedarf)
 * [Lets Bastel](https://shop.lets-bastel.de)
 * [ManoMano](https://www.manomano.de)
+* [modulor](https://modulor.de) (Künstler- und DIY-Bedarf, haben auch ein Ladengeschäft in Berlin)
 * [Online-Schrauben](https://online-schrauben.de)
 
 ### 🏡 Wohnen
