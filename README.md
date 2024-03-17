@@ -175,6 +175,11 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [extrudr](https://www.extrudr.com/de/shop-eu/?locale=de) (österr. Firma, direkt bei mir umme Ecke 😃)
 * [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in [deren Shop](https://recyclingfabrik.com/shop/) erwerben kannst)
 
+### ⛵️ Segeln
+* [12 Seemeilen](https://www.12seemeilen.de) (Bootszubehör und Segelbekleidung)
+* [Compas 24](https://www.compass24.de) (Bootszubehör, Wassersport, Segelbekleidung & Yachtzubehör)
+  
+
 ## Mitmachen
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen senden mir bitte ihre Vorschläge via Mastodon an [@phranck](https://chaos.social/@phranck). Ihr dürft auch gerne die Hashtags [\#AmazonAlternative](https://chaos.social/deck/tags/AmazonAlternative) und/oder [\#AmazonAlternativen](https://chaos.social/deck/tags/AmazonAlternativen) verwenden, ich folge diesen Tags.
 
