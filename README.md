@@ -55,6 +55,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Tagtraum Tee](https://www.ttt-shop.de) (Kleiner, alteingesessener Hamburger Versandhandel. Ein Online-Shop mit Reminiszenzen einer vergangenen Epoche 😃)
 * [Tee Gschwendner](https://www.teegschwendner.de) (Tee und Zubehör, gibt auch lokale Filialen)
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
+* [Teekiste](https://www.teekiste.com) (Tee, Porzellan, Samoware)
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
