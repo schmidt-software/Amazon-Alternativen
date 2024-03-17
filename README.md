@@ -43,6 +43,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Aroma Zapatista](https://www.aroma-zapatista.de) (ein Kollektiv aus Hamburg, das vor allem sehr leckeren Kaffee (aber auch Tee) von genossenschaftlich organisierten indigenen Kleinbauern aus Lateinamerika ohne Zwischenhändler anbietet)
 * [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
+* [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
@@ -50,12 +51,13 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Rapunzel](https://shop.rapunzel.de) (Naturkost)
 * [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
-* [SirPlus](https://sirplus.de/) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
+* [SirPlus](https://sirplus.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
 * [Sonnentor](https://www.sonnentor.com/de-at/onlineshop) (Bio-Tees & Bio-Gewürze)
 * [Tagtraum Tee](https://www.ttt-shop.de) (Kleiner, alteingesessener Hamburger Versandhandel. Ein Online-Shop mit Reminiszenzen einer vergangenen Epoche 😃)
 * [Tee Gschwendner](https://www.teegschwendner.de) (Tee und Zubehör, gibt auch lokale Filialen)
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
+* [Teekiste](https://www.teekiste.com) (Tee, Porzellan, Samoware)
 * [Urkornpuristen](https://urkornpuristen.de) (Urkorngetreide aus eigenem Anbau, ganzes Korn oder Mehl)
 
 ### 🚲 Fahrräder und Zubehör
@@ -75,7 +77,6 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
 * [Native Souls](https://www.nativesouls.de) (fair trade Mode, organic, nachhaltig und vegan)
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
-* [Trigema](https://www.trigema.de)
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
 * [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
@@ -117,9 +118,10 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 * [Shift](https://shop.shiftphones.com/)
 
-### 🛠️ DIY / Handwerken / Werkzeuge
+### 🛠️ Werkzeuge / DIY / Handwerken
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [Grey Element](https://grey-element.shop)
+* [Kunstpark](Kunstpark-Shop.de) (Künstlerbedarf, Bastelbedarf, Zeichenbedarf)
 * [Lets Bastel](https://shop.lets-bastel.de)
 * [ManoMano](https://www.manomano.de)
 * [Online-Schrauben](https://online-schrauben.de)
