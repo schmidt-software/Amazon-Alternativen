@@ -56,6 +56,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Koro](https://www.korodrogerie.de) (Lebensmittel)
 * [Marktschwärmer](https://marktschwaermer.de/de) (Regional einkaufen, online bestellen, in der Nähe abholen (Wenn es eine örtliche Marktschwärmerei gibt))
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
+* [Ökokiste](https://www.oekokiste.de) (Netzwerk von Bauern, die Lebensmittel liefern)
 * [Rapunzel](https://shop.rapunzel.de) (Naturkost)
 * [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
 * [Schwarzwald Miso](https://www.schwarzwald-miso.de) (Bio Miso aus dem Schwarzwald, vegan)
