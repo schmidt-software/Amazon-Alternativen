@@ -139,6 +139,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
+* ELV [🇩🇪](https://de.elv.com) / [🇨🇭](https://ch.elv.com) (elektronische Bauteile und -Komponenten)
 * [Fairphone](https://shop.fairphone.com/)
 * [funk24](https://shop.funk24.net)
 * Frame.work: [🇩🇪](https://frame.work/de/de) / [🇦🇹](https://frame.work/at/de) (modulare und vor allem reparierbare(!) Laptops)
