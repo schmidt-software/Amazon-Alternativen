@@ -1,5 +1,5 @@
 # Amazon-Alternativen
-Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser Plattform einschränken wolltet, dann nutzt un beteiligt euch am Ausbau dieser Liste. Das ist eine lose Sammlung von Online-Shops (gerne auch mal direkt beim Hersteller), die es Wert sind, dass man bei ihnen bestellt.
+Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser Plattform einschränken wolltet, dann nutzt und beteiligt euch am Ausbau dieser Liste. Das ist eine lose Sammlung von Online-Shops (gerne auch mal direkt beim Hersteller), die es Wert sind, dass man bei ihnen bestellt.
 
 #### **HINWEIS**  
 Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlungen vorher an. Nicht böse sein, sollte ich mal den einen oder anderen Vorschlag übersehen/vergessen.
@@ -166,7 +166,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [extrudr](https://www.extrudr.com/de/shop-eu/?locale=de) (österr. Firma, direkt bei mir umme Ecke 😃)
 * [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in [deren Shop](https://recyclingfabrik.com/shop/) erwerben kannst)
 
-## Support
+## Mitmachen
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen senden mir bitte ihre Vorschläge via Mastodon an [@phranck](https://chaos.social/@phranck). Ihr dürft auch gerne die Hashtags [\#AmazonAlternative](https://chaos.social/deck/tags/AmazonAlternative) und/oder [\#AmazonAlternativen](https://chaos.social/deck/tags/AmazonAlternativen) verwenden, ich folge diesen Tags.
 
 Bitte die Einträge entsprechend ihrer Kategorie alphabetisch sortiert eintragen (als wäre alles klein geschrieben). Danke. 🙏
