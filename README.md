@@ -91,6 +91,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Doghammer](https://www.doghammer.de) (Schuhe aus Deutschland, auch vegane Schuhe)
 * [Ehrlich Textil](https://erlich-textil.com) (Faire und nachhaltige Unterwäsche, vegan)
 * [Frija Omina](https://www.frija-omina.com) (nachhaltige Unterwäsche, Bademode und andere Klamotten, hergestellt in Brandenburg)
+* [Geniestreich Jeans](https://geniestreich-jeans.de) (Biojeans in Deutschland  hergestellt mit sehr netter und kompetenter Beratung)
 * [Grundstoff](https://www.grundstoff.net) (vertreibt [Marken](https://www.grundstoff.net/herstellerinfos), deren Klamotten fair und nachhaltig hergestellt werden)
 * [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
 * [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
