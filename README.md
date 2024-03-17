@@ -23,6 +23,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Fantasy Welt](https://www.fantasywelt.de)
 * [GaiaGames](https://gaiagames.de) (lehrreiche und kooperative Brettspiele, umweltschonend produziert)
 * [Lurch & Lama](https://lurchundlama.de) (Spiele und Merch)
+* [Milan Spiele](https://www.milan-spiele.de)
 * [SciFi-Trader](https://scifi-trader.de) (Battle-Tech)
 * [Spiele Offensive](https://spiele-offensive.de)
 
