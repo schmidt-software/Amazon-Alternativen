@@ -142,18 +142,21 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * ELV [🇩🇪](https://de.elv.com) / [🇨🇭](https://ch.elv.com) (elektronische Bauteile und -Komponenten)
 * [Fairphone](https://shop.fairphone.com/)
 * [funk24](https://shop.funk24.net)
-* Frame.work: [🇩🇪](https://frame.work/de/de) / [🇦🇹](https://frame.work/at/de) (modulare und vor allem reparierbare(!) Laptops)
 * [FS](https://www.fs.com/de) (Netzwerkequipment)
 * [Mindfactory](https://www.mindfactory.de) (gute Auswahl zu fairen Preisen, versandkostenfrei im Midnight-Shopping, tlw. sehr günstige Angebote unter Mindstars)
 * [MyLemon](https://mylemon.at)
-* Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
-* [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
 * Pollin: [🇩🇪](https://www.pollin.de) / [🇦🇹](https://www.pollin.at) (oft sehr gute Angebote bei Shelly-Komponenten)
 * [RasppiShop](https://www.rasppishop.de)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 * [Shelly](https://www.shelly.com/)
 * [Shift](https://shop.shiftphones.com/)
 * [Tindie](https://www.tindie.com) (massig DYI Hardware Nerd Kram)
+
+## Computer
+* [Computer Universe](https://www.computeruniverse.net/de) (Recht bekannter Technik Online Shop, seit 1999)
+* Frame.work: [🇩🇪](https://frame.work/de/de) / [🇦🇹](https://frame.work/at/de) (modulare und vor allem reparierbare(!) Laptops)
+* [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
+* Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
 
 ### 🛠️ Werkzeuge / DIY / Handwerken
 * [Aisler](https://aisler.net) (Platinenherstellung aus Deutschland/EU)
