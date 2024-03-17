@@ -90,17 +90,22 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ### 📺 Unterthaltungselektronik
 * AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
 * [AZ-Delivery](https://www.az-delivery.de) (elektronische Bauteile und -Komponenten)
-* [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
-* [Fairphone] (https://shop.fairphone.com/)
-* [MyLemon](https://mylemon.at)
 * Berrybase: [🇩🇪](https://www.berrybase.de) / [🇦🇹](https://www.berrybase.at)
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
+* [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
+* [Fairphone] (https://shop.fairphone.com/)
+* [funk24](https://shop.funk24.net)
+* [MyLemon](https://mylemon.at)
+* [MyLemon](https://mylemon.at)
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
+* [RasppiShop](https://www.rasppishop.de)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 * [Shift](https://shop.shiftphones.com/)
 
 ### 🛠️ DIY / Handwerken / Werkzeuge
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
+* [Grey Element](https://grey-element.shop)
+* [Lets Bastel](https://shop.lets-bastel.de)
 * [ManoMano](https://www.manomano.de)
 * [Online-Schrauben](https://online-schrauben.de)
 
@@ -116,10 +121,11 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Wob](https://www.wob.com/de-de) (Bücher, Musik, Filme)
 
 ### 🖨️ 3D Druck
+* [AURAPOL](https://www.aurapol.com/de/)
+* [Bavaria-Filaments](https://www.bavaria-filaments.com)
 * [Das Filament](https://www.dasfilament.de)
 * [extrudr](https://www.extrudr.com/de/shop-eu/?locale=de) (österr. Firma, direkt bei mir umme Ecke 😃)
 * [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in deren Shop erwerben kannst)
-* [AURAPOL](https://www.aurapol.com/de/)
 
 ## Support
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen senden mir bitte ihre Vorschläge via Mastodon an [@phranck](https://chaos.social/@phranck). Ihr dürft auch gerne die Hashtags [\#AmazonAlternative](https://chaos.social/deck/tags/AmazonAlternative) und/oder [\#AmazonAlternativen](https://chaos.social/deck/tags/AmazonAlternativen) verwenden, ich folge diesen Tags.
