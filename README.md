@@ -81,6 +81,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [mpb](https://www.mpb.com/de-de) (hochwertige, gebrauchte Foto- und Kameraausrüstung)
 * Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at) (2nd Hand)
 * [Music Store](https://musicstore.de) (MUSIC STORE professional - Online-Shop für Musikinstrumente)
+* Qobuz: [🇩🇪](https://www.qobuz.com/de-de/) / [🇦🇹](https://www.qobuz.com/at-de/)
 * Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at) (2nd Hand)
 * [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
 
