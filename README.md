@@ -36,16 +36,16 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Wob](https://www.wob.com/de-de) (2nd Hand)
 
 ### 🥘 Ernährung
+* [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
 * [SirPlus](https://sirplus.de/) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
+* [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
 * [Tee Gschwendner](https://www.teegschwendner.de) (Tee und Zubehör, gibt auch lokale Filialen)
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
-* [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
-* [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
