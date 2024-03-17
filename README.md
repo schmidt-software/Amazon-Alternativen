@@ -69,6 +69,7 @@ Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser 
 * [Papier & Stift](https://www.papierundstift.de)
 
 ### 📺 Unterthaltungselektronik
+* AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
 * [AZ-Delivery](https://www.az-delivery.de) (elektronische Bauteile und -Komponenten)
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
 * [MyLemon](https://mylemon.at)
