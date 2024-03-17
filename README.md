@@ -36,21 +36,29 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Lehmanns](https://www.lehmanns.de) (der Klassiker)
 * [Links Lesen](https://links-lesen.de) (linker Online Buchladen, selbstverwalteter Kollektivbetrieb)
 * [Wob](https://www.wob.com/de-de) (2nd Hand)
+* [yourbook](https://yourbook.shop) (Deine Stammbuchhandlung bekommt dann 15% von allen Einkäufen, die du bei yourbook machst. Wenn Dir Deine Buchhandlung bei yourbook ein Buch empfiehlt und du es kaufst, bekommt sie sogar 25%.)
 * [ZVAB](https://www.zvab.com) (Bücher Antiquariat)
 
 ### 🥘 Ernährung
 * [Aroma Zapatista](https://www.aroma-zapatista.de) (ein Kollektiv aus Hamburg, das vor allem sehr leckeren Kaffee (aber auch Tee) von genossenschaftlich organisierten indigenen Kleinbauern aus Lateinamerika ohne Zwischenhändler anbietet)
 * [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
+* [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
+* [Marktschwärmer](https://marktschwaermer.de/de) (Regional einkaufen, online bestellen, in der Nähe abholen (Wenn es eine örtliche Marktschwärmerei gibt))
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
+* [Rapunzel](https://shop.rapunzel.de) (Naturkost)
 * [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
-* [SirPlus](https://sirplus.de/) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
+* [SirPlus](https://sirplus.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
+* [Sonnentor](https://www.sonnentor.com/de-at/onlineshop) (Bio-Tees & Bio-Gewürze)
+* [Tagtraum Tee](https://www.ttt-shop.de) (Kleiner, alteingesessener Hamburger Versandhandel. Ein Online-Shop mit Reminiszenzen einer vergangenen Epoche 😃)
 * [Tee Gschwendner](https://www.teegschwendner.de) (Tee und Zubehör, gibt auch lokale Filialen)
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
+* [Teekiste](https://www.teekiste.com) (Tee, Porzellan, Samoware)
+* [Urkornpuristen](https://urkornpuristen.de) (Urkorngetreide aus eigenem Anbau, ganzes Korn oder Mehl)
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
@@ -59,15 +67,21 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ### 🎁 Geschenke / Kunst / Postkarten
 * [Kwimbi](https://kwimbi.de)
 
+### 🐕🐈 Haustiere
+* zooplus [🇩🇪](https://www.zooplus.de) / [🇦🇹](https://www.zooplus.at)
+
 ### 🧢 Klamotten
 * [About You](https://www.aboutyou.at)
 * [avocadostore](https://www.avocadostore.de)
 * [DarkAges](https://www.darkages.de) (Goth/Szene)
-* [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
+* [Doghammer](https://www.doghammer.de) (Schuhe aus Deutschland, auch vegane Schuhe)
+* [Grundstoff](https://www.grundstoff.net) (vertreibt [Marken](https://www.grundstoff.net/herstellerinfos), deren Klamotten fair und nachhaltig hergestellt werden)
 * [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
+* [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
+* [Native Souls](https://www.nativesouls.de) (fair trade Mode, organic, nachhaltig und vegan)
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
-* [Trigema](https://www.trigema.de)
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
+* [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
 
 ### 🧴 Kosmetik
@@ -103,7 +117,6 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Fairphone] (https://shop.fairphone.com/)
 * [funk24](https://shop.funk24.net)
 * [MyLemon](https://mylemon.at)
-* [MyLemon](https://mylemon.at)
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
 * [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
 * [RasppiShop](https://www.rasppishop.de)
@@ -111,10 +124,11 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Shelly](https://www.shelly.com/)
 * [Shift](https://shop.shiftphones.com/)
 
-### 🛠️ DIY / Handwerken / Werkzeuge
+### 🛠️ Werkzeuge / DIY / Handwerken
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [Grey Element](https://grey-element.shop)
+* [Kunstpark](Kunstpark-Shop.de) (Künstlerbedarf, Bastelbedarf, Zeichenbedarf)
 * [Lets Bastel](https://shop.lets-bastel.de)
 * [ManoMano](https://www.manomano.de)
 * [Online-Schrauben](https://online-schrauben.de)
@@ -136,10 +150,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Bavaria-Filaments](https://www.bavaria-filaments.com)
 * [Das Filament](https://www.dasfilament.de)
 * [extrudr](https://www.extrudr.com/de/shop-eu/?locale=de) (österr. Firma, direkt bei mir umme Ecke 😃)
-* [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in deren Shop erwerben kannst)
-
-### 🐕🐈 Haustiere
-* zooplus [🇩🇪](https://www.zooplus.de) / [🇦🇹](https://www.zooplus.at)
+* [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in [deren Shop](https://recyclingfabrik.com/shop/) erwerben kannst)
 
 ## Support
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen senden mir bitte ihre Vorschläge via Mastodon an [@phranck](https://chaos.social/@phranck). Ihr dürft auch gerne die Hashtags [\#AmazonAlternative](https://chaos.social/deck/tags/AmazonAlternative) und/oder [\#AmazonAlternativen](https://chaos.social/deck/tags/AmazonAlternativen) verwenden, ich folge diesen Tags.
