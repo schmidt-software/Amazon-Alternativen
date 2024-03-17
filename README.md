@@ -62,6 +62,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
+* [Bikehit](https://www.bikehit.de) (Fahrräder und Fahrradteile aus Dresden)
 * [Kurbelix](https://kurbelix.de) (Günstige Fahrradteile wie Laufräder & Laufradsätze im Online Shop kaufen)
 
 ### 🎁 Geschenke / Kunst / Postkarten
@@ -72,6 +73,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [avocadostore](https://www.avocadostore.de)
 * [DarkAges](https://www.darkages.de) (Goth/Szene)
 * [Doghammer](https://www.doghammer.de) (Schuhe aus Deutschland, auch vegane Schuhe)
+* [Frija Omina](https://www.frija-omina.com) (nachhaltige Unterwäsche, Bademode und andere Klamotten, hergestellt in Brandenburg)
 * [Grundstoff](https://www.grundstoff.net) (vertreibt [Marken](https://www.grundstoff.net/herstellerinfos), deren Klamotten fair und nachhaltig hergestellt werden)
 * [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
 * [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
@@ -100,6 +102,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 
 ### 🔏 Schreibwaren und Bürobedarf
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
+* [HD-Toner](https://www.hd-toner.de) (Tinte, Toner aus Uelzen)
 * [memo](https://www.memo.de/) (Bürobedarf, Bürotechnik etc.)
 * [Papier & Stift](https://www.papierundstift.de)
 
