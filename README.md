@@ -54,6 +54,7 @@ Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser 
 ### 🧴 Kosmetik
 * [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
 * [natur Pur](https://www.shop-naturpur.de) (Natur Kosmetik)
+* [Rosenrot](https://www.rosenrot.de) (Pionier im Bereich der natürlichen Haar- und Körperpflege in fester Form)
 
 ### 🍿 Musik / Foto / Video / Unterhaltung
 * [Bandcamp](https://bandcamp.com) (direkt vom Künstler kaufen)
