@@ -55,7 +55,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ### 🧢 Klamotten
 * [About You](https://www.aboutyou.at)
 * [DarkAges](https://www.darkages.de) (Goth/Szene)
-* [manomama](https://www.manomama.de) (Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
+* [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
 * [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
 * [Trigema](https://www.trigema.de)
