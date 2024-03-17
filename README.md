@@ -32,7 +32,7 @@ Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser 
 
 ### 🍿 Musik/Foto/Video/Unterhaltung
 * [jpc](https://www.jpc.de)
-* [Bandcamp](https://bandcamp.com)
+* [Bandcamp](https://bandcamp.com) (direkt vom Künstler kaufen)
 * [Discogs](https://www.discogs.com)
 * [Coretex Records](https://coretexrecords.com)
 * [Thomann](https://www.thomann.de) (Musikinstrumente, -Equipment, -Software & Zubehör)
