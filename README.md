@@ -191,3 +191,10 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen nutzen bitte die [Issue-Funktion](https://github.com/phranck/Amazon-Alternativen/issues), und tragen dort ihre Ergänzungsvorschläge ein.
 
 Bitte die Einträge entsprechend ihrer Kategorie alphabetisch sortiert eintragen (als wäre alles klein geschrieben). Danke. 🙏
+
+## Disclaimer
+Diese Liste entstand am Vormittag des 17. März 2024 als fixe Idee von mir, als ich realisierte, dass ich bereits seit dem Jahre 2000 ununterbroche Kunde von Amazon bin. Vergangene Versuche davon "loszukommen" scheiterten bisher ausnahmslos. Eigentlich wollte ich nur ein paar Alternativvorschläge einsammeln, wo ich noch mein Zeugs kaufen könnte. Also stellte ich auf [Mastodon](https://chaos.social/@phranck/112110172143548005) zunächst nur eine Frage (den Link zur Liste gab es da noch gar nicht, weil es noch keine Liste gab 🙄).
+
+Zu meinem grossen Erstaunen uferte das Ganze innerhalb weniger Stunden komplett aus, und der Sonntag war für mich erstmal halbwegs gegessen. Ich bin mit dem Kuratieren und Nachtragen kaum noch hinterher gekommen. 😃
+
+Wenn das hier noch weiter aufbläht, wird das bestimmt sehr schnell sehr unübersichtlich. Ich werde dann darûber nachdenken, das evtl. als eigene Website aufzuziehen. Schaumermal...
