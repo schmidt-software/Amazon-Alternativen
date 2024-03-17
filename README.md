@@ -47,6 +47,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
+* [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
 * [Marktschwärmer](https://marktschwaermer.de/de) (Regional einkaufen, online bestellen, in der Nähe abholen (Wenn es eine örtliche Marktschwärmerei gibt))
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Rapunzel](https://shop.rapunzel.de) (Naturkost)
@@ -84,10 +85,11 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
 
-### 🧴 Kosmetik
+### 🧴 Kosmetik / Drogerie
 * [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
 * [natur Pur](https://www.shop-naturpur.de) (Natur Kosmetik)
 * [Rosenrot](https://www.rosenrot.de) (Pionier im Bereich der natürlichen Haar- und Körperpflege in fester Form)
+* [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
 
 ### 🍿 Musik / Foto / Video / Unterhaltung
 * [Bandcamp](https://bandcamp.com) (direkt vom Künstler kaufen)
