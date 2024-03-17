@@ -26,6 +26,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Autorenwelt](https://shop.autorenwelt.de) (geben 7% der Buchhandelmarge an die Autor*innen des verkauften Buchs ab)
 * [Black Mosquito](https://black-mosquito.org) (linker Antifa Shop & Mailorder, in Kollektivverwaltung)
 * [booklooker](https://www.booklooker.de)
+* [Buchkatalog](https://www.buchkatalog.de) (Netzwerk von Buchhandlungen - online bestellen und im Laden um die Ecke abholen)
 * [buch7](https://www.buch7.de)
 * [Bücher.de](https://buecher.de)
 * [Bücherhallen Hamburg](https://www.buecherhallen.de) (lokales, sehr gutes Angebot, ausschliesslich in Hamburg)
@@ -34,9 +35,11 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Links Lesen](https://links-lesen.de) (linker Online Buchladen, selbstverwalteter Kollektivbetrieb)
 
 ### 🥘 Ernährung
+* [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
+* [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
 * [SirPlus](https://sirplus.de/) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Tee Gschwendner](https://www.teegschwendner.de) (Tee und Zubehör, gibt auch lokale Filialen)
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
@@ -53,6 +56,8 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [About You](https://www.aboutyou.at)
 * [DarkAges](https://www.darkages.de) (Goth/Szene)
 * [manomama](https://www.manomama.de) (Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
+* [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
+* [Sellpy](https://www.sellpy.de) (Second-Hand)
 * [Trigema](https://www.trigema.de)
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
 
@@ -83,7 +88,8 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 
-### 🛠️ Werkzeuge / Baumarkt / DIY
+### 🛠️ DIY / Handwerken / Werkzeuge
+* [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [ManoMano](https://www.manomano.de)
 * [Online-Schrauben](https://online-schrauben.de)
 
