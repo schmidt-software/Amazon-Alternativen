@@ -62,6 +62,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
 * [Trigema](https://www.trigema.de)
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
+* [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
 
 ### 🧴 Kosmetik
 * [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
