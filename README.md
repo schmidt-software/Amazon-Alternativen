@@ -12,6 +12,8 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Memo AG: [Privatkunden](https://www.memolife.de/) / [Geschäftskunden](https://www.memo.de/) (Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt-klima/logistik/memo-box/) und [Radlogistik](https://www.memoworld.de/radlogistik/))
 * Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)
+* akkurat: [akkurat](https://akkurat-gsv.de/shop) (Shop für erneuerbare Energien)
+* gartenkraftwerke: [gartenkraftwerke]https://gartenkraftwerke.de) (Shop für erneuerbare Energien)
 
 ### 🔭 Astronomie
 * [Astro Shop](https://www.astroshop.de)
@@ -71,6 +73,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Trigema](https://www.trigema.de)
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
+* [picksports](https://www.picksport.de) (Klamottenoutlet - sportlastig)
 
 ### 🧴 Kosmetik
 * [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
@@ -109,6 +112,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [RasppiShop](https://www.rasppishop.de)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 * [Shift](https://shop.shiftphones.com/)
+* [tindie](https://www.tindie.com) (massig DYI Hardware Nerd Kram)
 
 ### 🛠️ DIY / Handwerken / Werkzeuge
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
