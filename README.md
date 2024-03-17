@@ -76,6 +76,8 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Bike Components](https://bike-components.de)
 * [Bikehit](https://www.bikehit.de) (Fahrräder und Fahrradteile aus Dresden)
 * [Kurbelix](https://kurbelix.de) (Günstige Fahrradteile wie Laufräder & Laufradsätze im Online Shop kaufen)
+* [Meilenweit](https://www.meilenweit.net/) (hochwertiges, Reiseräder, Fahrradteile und Laufräder aus Bochum)
+* [Rose](https://www.rosebikes.de/) (Vollsortiment-Versandhändler mit Filialnetz aus Bocholt, Eigenmarken)
 
 ### 🎁 Geschenke / Kunst / Postkarten
 * [Kwimbi](https://kwimbi.de)
