@@ -9,6 +9,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 ### 🏪 Allgemein (gemischte Produktauswahl)
 * [Galaxus](https://www.galaxus.de)
 * AvocadoStore: [🇩🇪](https://www.avocadostore.de) / [🇦🇹](https://www.avocadostore.at) (Marketplace für faire, nachhaltige oder vegane Produkte, vor allem Textilien und Haushaltsgegenstände)
+* Memo AG: [Privatkunden](https://www.memolife.de/) / [Geschäftskunden](https://www.memo.de/) (Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt-klima/logistik/memo-box/) und [Radlogistik](https://www.memoworld.de/radlogistik/))
 * Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)
 
@@ -24,7 +25,6 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 
 ### 📚 Bücher
 * [Autorenwelt](https://shop.autorenwelt.de) (geben 7% der Buchhandelmarge an die Autor*innen des verkauften Buchs ab)
-* [beam](https://www.beam-shop.de) (DRM-freie e-Books, keine Papierbücher)
 * [Black Mosquito](https://black-mosquito.org) (linker Antifa Shop & Mailorder, in Kollektivverwaltung)
 * [booklooker](https://www.booklooker.de)
 * [Buchkatalog](https://www.buchkatalog.de) (Netzwerk von Buchhandlungen - online bestellen und im Laden um die Ecke abholen)
