@@ -31,6 +31,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Autorenwelt](https://shop.autorenwelt.de) (geben 7% der Buchhandelmarge an die Autor*innen des verkauften Buchs ab)
 * [Black Mosquito](https://black-mosquito.org) (linker Antifa Shop & Mailorder, in Kollektivverwaltung)
 * [booklooker](https://www.booklooker.de)
+* [Buchhandlung](https://www.buchhandlung.de/) (Deine lokale Buchhandlung vor Ort, Click & Collect oder Versand)
 * [Buchkatalog](https://www.buchkatalog.de) (Netzwerk von Buchhandlungen - online bestellen und im Laden um die Ecke abholen)
 * [buch7](https://www.buch7.de)
 * [Bücher.de](https://buecher.de)
@@ -56,6 +57,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Koro](https://www.korodrogerie.de) (Lebensmittel)
 * [Marktschwärmer](https://marktschwaermer.de/de) (Regional einkaufen, online bestellen, in der Nähe abholen (Wenn es eine örtliche Marktschwärmerei gibt))
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
+* [Ökokiste](https://www.oekokiste.de) (Netzwerk von Bauern, die Lebensmittel liefern)
 * [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
 * [Schwarzwald Miso](https://www.schwarzwald-miso.de) (Bio Miso aus dem Schwarzwald, vegan)
 * [SirPlus](https://sirplus.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
@@ -122,6 +124,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
 
 ### 🔏 Schreibwaren und Bürobedarf
+* [Bürobedarf Hämpel](https://www.buerobedarf-haempel.de) (Allerlei Schreibwaren und Bürozubehör)
 * [FairToner](https://www.fairtoner.de)
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
 * [HD-Toner](https://www.hd-toner.de) (Tinte, Toner aus Uelzen)
@@ -151,6 +154,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Tindie](https://www.tindie.com) (massig DYI Hardware Nerd Kram)
 
 ### 🛠️ Werkzeuge / DIY / Handwerken
+* [Aisler](https://aisler.net) (Platinenherstellung aus Deutschland/EU)
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [Grey Element](https://grey-element.shop)
