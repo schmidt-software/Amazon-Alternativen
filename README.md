@@ -51,6 +51,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
 * [Tee Gschwendner](https://www.teegschwendner.de) (Tee und Zubehör, gibt auch lokale Filialen)
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
+* [Teekiste](https://www.teekiste.com) (Tee, Porzellan, Samoware)
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
