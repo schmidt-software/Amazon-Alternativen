@@ -44,7 +44,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 
 ### 🥘 Ernährung
 * [Aroma Zapatista](https://www.aroma-zapatista.de) (ein Kollektiv aus Hamburg, das vor allem sehr leckeren Kaffee (aber auch Tee) von genossenschaftlich organisierten indigenen Kleinbauern aus Lateinamerika ohne Zwischenhändler anbietet)
-* [Bean United](https://www.bean-united.de) ()
+* [Bean United](https://www.bean-united.de) (finanziert soziale Projekte in den Bereichen Ernährung und Bildung, indem sie je verkauftes Kilo ihrer Kaffeebohnen €2,50 in ein soziales Projekt einzahlen)
 * [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
 * [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
