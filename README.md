@@ -61,6 +61,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Tee Gschwendner](https://www.teegschwendner.de) (Tee und Zubehör, gibt auch lokale Filialen)
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
 * [Teekiste](https://www.teekiste.com) (Tee, Porzellan, Samoware)
+* [Überlegen](https://www.ueberlegen.online/) (Ein Online-Marktplatz für hochwertige und authentische Kaffees von Röstereien, die außergewöhnliches Engagement im Kaffeehandel zeigen)
 * [Urkornpuristen](https://urkornpuristen.de) (Urkorngetreide aus eigenem Anbau, ganzes Korn oder Mehl)
 
 ### 🚲 Fahrräder und Zubehör
