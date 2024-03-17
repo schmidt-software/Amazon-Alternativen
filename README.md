@@ -30,17 +30,19 @@ Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser 
 * [DarkAges](https://www.darkages.de) (Goth/Szene)
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
 
-### 🍿 Musik/Video/Unterhaltung
+### 🍿 Musik/Foto/Video/Unterhaltung
 * [jpc](https://www.jpc.de)
 * [Bandcamp](https://bandcamp.com)
 * [Discogs](https://www.discogs.com)
 * [Coretex Records](https://coretexrecords.com)
+* [Thomann](https://www.thomann.de) (Musikinstrumente, -Equipment, -Software & Zubehör)
+* [mpb](https://www.mpb.com/de-de) (hochwertige, gebrauchte Foto- und Kameraausrüstung)
 
 ### 📺 (Unterthaltungs-)Elektronik
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
-* [MyLemon](https://mylemon.at)
+* [MyLemon](https://mylemon.at) 
 
 
 ### 🛠️ Werkzeuge / Baumarkt
