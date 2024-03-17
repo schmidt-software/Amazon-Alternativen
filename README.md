@@ -79,6 +79,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
 * [Native Souls](https://www.nativesouls.de) (fair trade Mode, organic, nachhaltig und vegan)
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
+* Vinted: [🇩🇪](https://vinted.de) / [🇦🇹](https://vinted.at) (2nd Hand)
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
 * [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
@@ -127,6 +128,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Kunstpark](Kunstpark-Shop.de) (Künstlerbedarf, Bastelbedarf, Zeichenbedarf)
 * [Lets Bastel](https://shop.lets-bastel.de)
 * [ManoMano](https://www.manomano.de)
+* [modulor](https://modulor.de) (Künstler- und DIY-Bedarf, haben auch ein Ladengeschäft in Berlin)
 * [Online-Schrauben](https://online-schrauben.de)
 
 ### 🏡 Wohnen
