@@ -35,7 +35,6 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Lehmanns](https://www.lehmanns.de) (der Klassiker)
 * [Links Lesen](https://links-lesen.de) (linker Online Buchladen, selbstverwalteter Kollektivbetrieb)
 * [Wob](https://www.wob.com/de-de) (2nd Hand)
-* [ZVAB](https://www.zvab.com) (Bücher Antiquariat)
 
 ### 🥘 Ernährung
 * [Aroma Zapatista](https://www.aroma-zapatista.de) (ein Kollektiv aus Hamburg, das vor allem sehr leckeren Kaffee (aber auch Tee) von genossenschaftlich organisierten indigenen Kleinbauern aus Lateinamerika ohne Zwischenhändler anbietet)
@@ -81,31 +80,33 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [mpb](https://www.mpb.com/de-de) (hochwertige, gebrauchte Foto- und Kameraausrüstung)
 * Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at) (2nd Hand)
 * [Music Store](https://musicstore.de) (MUSIC STORE professional - Online-Shop für Musikinstrumente)
-* Qobuz: [🇩🇪](https://www.qobuz.com/de-de/) / [🇦🇹](https://www.qobuz.com/at-de/)
 * Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at) (2nd Hand)
 * [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
 
 ### 🔏 Schreibwaren und Zubehör
+* [FairToner](https://www.fairtoner.de)
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
 * [Papier & Stift](https://www.papierundstift.de)
 
-### 📺 Unterthaltungselektronik
+### 📺 Unterhaltungselektronik
 * AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
 * [AZ-Delivery](https://www.az-delivery.de) (elektronische Bauteile und -Komponenten)
 * Berrybase: [🇩🇪](https://www.berrybase.de) / [🇦🇹](https://www.berrybase.at)
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
+* [Elektroshop Wagner](https://www.elektroshopwagner.de)
 * [Fairphone] (https://shop.fairphone.com/)
 * [funk24](https://shop.funk24.net)
 * [MyLemon](https://mylemon.at)
 * [MyLemon](https://mylemon.at)
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
-* [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
 * [RasppiShop](https://www.rasppishop.de)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
+* [Shelly](https://www.shelly.com/)
 * [Shift](https://shop.shiftphones.com/)
 
 ### 🛠️ DIY / Handwerken / Werkzeuge
+* [Elektroshop Wagner](https://www.elektroshopwagner.de)
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [Grey Element](https://grey-element.shop)
 * [Lets Bastel](https://shop.lets-bastel.de)
@@ -113,6 +114,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Online-Schrauben](https://online-schrauben.de)
 
 ### 🏡 Wohnen
+* [IKEA](https://www.ikea.com)
 
 ### 💶 2nd Hand / Refurbished
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
@@ -129,6 +131,9 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Das Filament](https://www.dasfilament.de)
 * [extrudr](https://www.extrudr.com/de/shop-eu/?locale=de) (österr. Firma, direkt bei mir umme Ecke 😃)
 * [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in deren Shop erwerben kannst)
+
+### 🐕🐈 Haustiere
+* zooplus [🇩🇪](https://www.zooplus.de) / [🇦🇹](https://www.zooplus.at)
 
 ## Support
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen senden mir bitte ihre Vorschläge via Mastodon an [@phranck](https://chaos.social/@phranck). Ihr dürft auch gerne die Hashtags [\#AmazonAlternative](https://chaos.social/deck/tags/AmazonAlternative) und/oder [\#AmazonAlternativen](https://chaos.social/deck/tags/AmazonAlternativen) verwenden, ich folge diesen Tags.
