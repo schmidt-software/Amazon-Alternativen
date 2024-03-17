@@ -116,6 +116,9 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [memo](https://www.memo.de/) (Bürobedarf, Bürotechnik etc.)
 * [Papier & Stift](https://www.papierundstift.de)
 
+### 🐈 Tierbedarf
+* [Non-Stop Dogwear](https://www.nonstopdogwear.com/de/) (alles für den Hund, Shop in Norwegen, liefert rasch und unkompliziert in die D-A-CH Region)
+
 ### 📺 Unterhaltungselektronik
 * AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
 * [AZ-Delivery](https://www.az-delivery.de) (elektronische Bauteile und -Komponenten)
