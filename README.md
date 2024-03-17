@@ -1,8 +1,8 @@
 # Amazon-Alternativen
-Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser Plattform einschränken wolltet, dann nutzt und beteiligt euch am Ausbau dieser Liste. Das ist eine lose Sammlung von Online-Shops (gerne auch mal direkt beim Hersteller), die es Wert sind, dass man bei ihnen bestellt.
+Wenn ihr auch "schon immer" von Amazon weg oder zumindest den Konsum auf dieser Plattform einschränken wolltet, dann nutzt und beteiligt euch am Ausbau dieser Liste. Das ist eine lose Sammlung von Online-Shops (gerne auch mal direkt beim Hersteller), die es Wert sind, dass man bei ihnen bestellt.
 
-#### **HINWEIS**  
-Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlungen vorher an. Nicht böse sein, sollte ich mal den einen oder anderen Vorschlag übersehen/vergessen.
+#### **HINWEIS**
+Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlungen vorher an. Nicht böse sein, sollte ich mal den einen oder anderen Vorschlag übersehen/vergessen.
 
 ---
 
@@ -50,6 +50,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
+* [gebana](https://www.gebana.com/eu-de/) (Fairtrade, Vorratsportionen von Lebensmitteln wie (Trocken-)Früchten, Nüssen, Getreide, Tee und mehr)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
 * [Lauteracher Feldfrüchte](https://lauteracher.de/shop/) (Linsen, Buchweizen, Getreide, Ölsaaten & Öle, Nudeln, Gewürze)
 * [Knauf Biohof](https://www.biolandhof-knauf.de/onlineshop/) (Bioland Getriede)
