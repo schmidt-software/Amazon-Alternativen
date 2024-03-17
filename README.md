@@ -93,11 +93,15 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
+* [funk24](https://shop.funk24.net)
+* [RasppiShop](https://www.rasppishop.de)
 
 ### 🛠️ DIY / Handwerken / Werkzeuge
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [ManoMano](https://www.manomano.de)
 * [Online-Schrauben](https://online-schrauben.de)
+* [Grey Element](https://grey-element.shop)
+* [Lets Bastel](https://shop.lets-bastel.de)
 
 ### 🏡 Wohnen
 
@@ -115,6 +119,8 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [extrudr](https://www.extrudr.com/de/shop-eu/?locale=de) (österr. Firma, direkt bei mir umme Ecke 😃)
 * [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in deren Shop erwerben kannst)
 * [AURAPOL](https://www.aurapol.com/de/)
+* [Das Filament](https://www.dasfilament.de)
+* [Bavaria-Filaments](https://www.bavaria-filaments.com)
 
 ## Support
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen senden mir bitte ihre Vorschläge via Mastodon an [@phranck](https://chaos.social/@phranck). Ihr dürft auch gerne die Hashtags [\#AmazonAlternative](https://chaos.social/deck/tags/AmazonAlternative) und/oder [\#AmazonAlternativen](https://chaos.social/deck/tags/AmazonAlternativen) verwenden, ich folge diesen Tags.
