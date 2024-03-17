@@ -46,6 +46,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
 * [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
 * [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
+* [Besserfleich](https://besserfleisch.de (deutsches Kleinunternehmen das Cow-Sharing betreibt. Schlachtung erst bei komplettem Verkauf. 1A-Fleisch)
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
