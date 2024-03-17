@@ -81,6 +81,7 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at) (2nd Hand)
 * [Music Store](https://musicstore.de) (MUSIC STORE professional - Online-Shop für Musikinstrumente)
 * Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at) (2nd Hand)
+* [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
 
 ### 🔏 Schreibwaren und Zubehör
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
