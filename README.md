@@ -20,7 +20,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Teleskop Express](https://www.teleskop-express.de)
 
 ### 🧩 Brettspiele / Tabletop / Rollenspiele
-* [Drive Through RPG](https://www.drivethrurpg.com/)
+* [Drive Through RPG](https://www.drivethrurpg.com/) (verschiedenste Rollenspiele ohne DRM, steht auch für Hobbyisten offen)
 * [Fantasy Welt](https://www.fantasywelt.de)
 * [GaiaGames](https://gaiagames.de) (lehrreiche und kooperative Brettspiele, umweltschonend produziert)
 * [Lurch & Lama](https://lurchundlama.de) (Spiele und Merch)
