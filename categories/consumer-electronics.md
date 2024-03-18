@@ -1,19 +1,27 @@
 ## 📺 Unterhaltungselektronik
-* AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
+* AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at)\
+Social & green IT.
 * Berrybase: [🇩🇪](https://www.berrybase.de) / [🇦🇹](https://www.berrybase.at)
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
-* [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
+* [cool blue](https://coolblue.de)\
+Verkaufen auch Retouren als "second chance" etwas günstiger wieder.
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
-* ELV [🇩🇪](https://de.elv.com) / [🇨🇭](https://ch.elv.com) (elektronische Bauteile und -Komponenten)
+* ELV [🇩🇪](https://de.elv.com) / [🇨🇭](https://ch.elv.com)\
+Elektronische Bauteile und -Komponenten.
 * [Fairphone](https://shop.fairphone.com/)
-* [funduino](https://funduinoshop.com/) (Arduinos und Zubehör, auch Filament für 3D-Druck. Schulen erhalten Rabatt.)
+* [funduino](https://funduinoshop.com/)\
+Arduinos und Zubehör, auch Filament für 3D-Druck. Schulen erhalten Rabatt.
 * [funk24](https://shop.funk24.net)
-* [FS](https://www.fs.com/de) (Netzwerkequipment)
-* [Mindfactory](https://www.mindfactory.de) (gute Auswahl zu fairen Preisen, versandkostenfrei im Midnight-Shopping, tlw. sehr günstige Angebote unter Mindstars)
+* [FS](https://www.fs.com/de)\
+Netzwerkequipment.
+* [Mindfactory](https://www.mindfactory.de)\
+Gute Auswahl zu fairen Preisen, versandkostenfrei im Midnight-Shopping, tlw. sehr günstige Angebote unter Mindstars.
 * [MyLemon](https://mylemon.at)
-* Pollin: [🇩🇪](https://www.pollin.de) / [🇦🇹](https://www.pollin.at) (oft sehr gute Angebote bei Shelly-Komponenten)
+* Pollin: [🇩🇪](https://www.pollin.de) / [🇦🇹](https://www.pollin.at)\
+Oft sehr gute Angebote bei Shelly-Komponenten.
 * [RasppiShop](https://www.rasppishop.de)
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 * [Shelly](https://www.shelly.com/)
 * [Shift](https://shop.shiftphones.com/)
-* [Tindie](https://www.tindie.com) (massig DYI Hardware Nerd Kram)
+* [Tindie](https://www.tindie.com)\
+Massig DYI Hardware Nerd Kram.
