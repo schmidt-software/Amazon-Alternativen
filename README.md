@@ -181,7 +181,6 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Grey Element](https://grey-element.shop)
 * [Kabelscheune](https://www.kabelscheune.de) (große Auswahl an Kabeln für den Heimwerkerbedarf)
 * [Kunstpark](Kunstpark-Shop.de) (Künstlerbedarf, Bastelbedarf, Zeichenbedarf)
-* [Lets Bastel](https://shop.lets-bastel.de)
 * [ManoMano](https://www.manomano.de)
 * [modulor](https://modulor.de) (Künstler- und DIY-Bedarf, haben auch ein Ladengeschäft in Berlin)
 * [Online-Schrauben](https://online-schrauben.de)
