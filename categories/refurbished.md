@@ -2,7 +2,7 @@
 * [Back Market](https://www.backmarket.de/) (Ein weltweiter Marktplatz für professionell erneuerte Technik, z.B. Apple-Produkte, Spielkonsolen, etc.) 
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
 * [ITSCO](https://www.itsco.de) (gebrauchtes IT-Equipment)
-* [Medimops](https://www.medimops.de)
+* [Medimops](https://www.medimops.de) (Bücher, Musik, Filme)
 * Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at)
 * [Notebookgalerie](https://www.notebookgalerie.de/) (Refurbished IT-Equipment, z.B. Laptops, Bildschirme, Smartphones und Tablets) 
 * [Piospartslab](https://www.piospartslap.de) (gebrauchtes IT-Equipment (gute Thin Client Angebote), faire Preisvorschläge (minus 10/20%) werden i.d.R. angenommen)
