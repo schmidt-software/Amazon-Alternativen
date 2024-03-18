@@ -24,7 +24,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 - 🍿 [Musik / Foto / Video / Unterhaltung](categories/entertainment.md)
 - 💶 [Refurbished / 2nd Hand](categories/refurbished.md)
 - 📝 [Schreibwaren und Bürobedarf](categories/stationary.md)
-- ⛵️ [Segeln](categories/sailing.md)
+- 🏀 [Sport](categories/sports.md)
 - 📺 [Unterhaltungselektronik](categories/consumer-electronics.md)
 - 🛠️ [Werkzeuge / DIY / Handwerken](categories/tools-diy.md)
 - 🏡 [Wohnen](categories/living.md)
