@@ -26,6 +26,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Milan Spiele](https://www.milan-spiele.de)
 * [SciFi-Trader](https://scifi-trader.de) (Battle-Tech)
 * [Spiele Offensive](https://spiele-offensive.de)
+* [Steinehelden](https://steinehelden.de) (LEGO-Shop der Lebenshilfe Westpfalz. Arbeitsplätze für Menschen mit Beeinträchtigungen.)
 
 ### 📚 Bücher
 * [Autorenwelt](https://shop.autorenwelt.de) (geben 7% der Buchhandelmarge an die Autor*innen des verkauften Buchs ab)
@@ -48,6 +49,8 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
 * [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
+* [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
+* [Farmshops](https://www.farmshops.eu) (Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.)
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
 * [gebana](https://www.gebana.com/eu-de/) (Fairtrade, Vorratsportionen von Lebensmitteln wie (Trocken-)Früchten, Nüssen, Getreide, Tee und mehr)
@@ -106,6 +109,9 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
 
+### 💊 Gesundheit / Medizin / Apotheken
+* [IhreApotheken.de](https://www.ihreapotheken.de) (übergreifendes Online-Framework vieler niedergelassener Apotheken in Deutschland,Angebot wechselt je nach lokaler Apotheke, oft aber Bestellung, Kurierlieferung, etc.)
+
 ### 🧴 Kosmetik / Drogerie
 * [Ben & Anna](https://ben-anna.de) (Körperpflege, vegan, frei von Plastik)
 * [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
@@ -161,10 +167,15 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * Frame.work: [🇩🇪](https://frame.work/de/de) / [🇦🇹](https://frame.work/at/de) (modulare und vor allem reparierbare(!) Laptops)
 * [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
+* [Second IT Store](https://second-it-store.de) (Shop für gebrauchte IT, viele Lenovo und HP Laptops, aber auch immer anderes wie Iphones.)
+
+### ⚡️ Elektrotechnik / Smart-Home
+* [Elektro-Wandelt.de](https://www.elektro-wandelt.de) (Elektroinstallationsmaterial, Lampen, Smart-Home-Komponenten, Leuchtmittel, alles eher aus dem Profibereich, wenig/keine Chinaware, auch für Privatkunden, oft auf Großhandelspreisniveau. Lieferung zuverlässig, Komponenten Markenware)
 
 ### 🛠️ Werkzeuge / DIY / Handwerken
 * [Aisler](https://aisler.net) (Platinenherstellung aus Deutschland/EU)
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
+* [Feine Werkzeuge](https://www.feine-werkzeuge.de) (Hochwertige Handwerkzeuge, v.a. zur Holzbearbeitung, Mittelständler, sehr guter Service, derzeit die besten Profiwerkzeuge am Markt, bis jetzt immer sehr gute Erfahrungen gemacht. Leider nicht billig.)
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [Grey Element](https://grey-element.shop)
 * [Kabelscheune](https://www.kabelscheune.de) (große Auswahl an Kabeln für den Heimwerkerbedarf)
@@ -186,6 +197,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Piospartslab](https://www.piospartslap.de) (gebrauchtes IT-Equipment (gute Thin Client Angebote), faire Preisvorschläge (minus 10/20%) werden i.d.R. angenommen)
 * Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at)
 * Refurbed: [🇩🇪](https://www.refurbed.de) / [🇦🇹](https://www.refurbed.at)
+* [Second IT Store](https://second-it-store.de) (Shop für gebrauchte IT, viele Lenovo und HP Laptops, aber auch immer anderes wie Iphones.)
 * [Wob](https://www.wob.com/de-de) (Bücher, Musik, Filme)
 
 ### 🖨️ 3D Druck
