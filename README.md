@@ -15,6 +15,10 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)
 
+### ☀️ Erneuerbare Energien
+* [Gartenkraftwerke](https://gartenkraftwerke.de) (alles rund ums Thema Solar-, Garten- und Balkonkraftwerke)
+* [Tepto](https://www.tepto.de) (viele verschiedene Angebote für Balkonkraftwerke)
+
 ### 🔭 Astronomie
 * [Astro Shop](https://www.astroshop.de)
 * [Teleskop Express](https://www.teleskop-express.de)
