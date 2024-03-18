@@ -50,7 +50,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
 * [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
-* [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
+* [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle (in der Nähe von München) für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
 * [Farmshops](https://www.farmshops.eu) (Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.)
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
@@ -145,7 +145,6 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 
 ### 📺 Unterhaltungselektronik
 * AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
-* [AZ-Delivery](https://www.az-delivery.de) (elektronische Bauteile und -Komponenten)
 * Berrybase: [🇩🇪](https://www.berrybase.de) / [🇦🇹](https://www.berrybase.at)
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
@@ -175,6 +174,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 
 ### 🛠️ Werkzeuge / DIY / Handwerken
 * [Aisler](https://aisler.net) (Platinenherstellung aus Deutschland/EU)
+* [Dictum](https://www.dictum.com) (Hochwertiges Werkzeug; Spezialist für japanische Sägen und Messer liegt eher im oberen Preissegment)
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
 * [Feine Werkzeuge](https://www.feinewerkzeuge.de) (Hochwertige Handwerkzeuge, v.a. zur Holzbearbeitung, Mittelständler, sehr guter Service, derzeit die besten Profiwerkzeuge am Markt, bis jetzt immer sehr gute Erfahrungen gemacht. Leider nicht billig.)
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
