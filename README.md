@@ -45,10 +45,12 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [yourbook](https://yourbook.shop) (Deine Stammbuchhandlung bekommt dann 15% von allen Einkäufen, die du bei yourbook machst. Wenn Dir Deine Buchhandlung bei yourbook ein Buch empfiehlt und du es kaufst, bekommt sie sogar 25%.)
 
 ### 🥘 Ernährung
+* [Alt Wien](https://www.altwien.at) (Sehr sympathische Wiener Kaffeerösterei mit breiter Auswahl an frisch gerösteten Kaffees)
 * [Aroma Zapatista](https://www.aroma-zapatista.de) (ein Kollektiv aus Hamburg, das vor allem sehr leckeren Kaffee (aber auch Tee) von genossenschaftlich organisierten indigenen Kleinbauern aus Lateinamerika ohne Zwischenhändler anbietet)
 * [Bean United](https://www.bean-united.de) (finanziert soziale Projekte in den Bereichen Ernährung und Bildung, indem sie je verkauftes Kilo ihrer Kaffeebohnen €2,50 in ein soziales Projekt einzahlen)
 * [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
+* [Demmer's Teehaus](https://www.tee.at) (Hochqualitativer Tee und Tee Zubehör)
 * [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
 * [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle (in der Nähe von München) für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
 * [Farmshops](https://www.farmshops.eu) (Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.)
