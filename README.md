@@ -126,6 +126,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [CeDe](https://www.cede.de/de) (kostenloser Versand)
 * [Coretex Records](https://coretexrecords.com)
 * [Discogs](https://www.discogs.com)
+* [Foto Mundus](https://www.foto-mundus.de) (Bietet diverse Kameras, Zubehör und auch gebrauchte Bodys und Objektive.)
 * [jpc](https://www.jpc.de)
 * [mpb](https://www.mpb.com/de-de) (hochwertige, gebrauchte Foto- und Kameraausrüstung)
 * Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at) (2nd Hand)
