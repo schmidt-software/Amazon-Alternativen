@@ -1,0 +1,9 @@
+## 🏪 Allgemein
+* Akkurat: [Akkurat](https://akkurat-gsv.de/shop) (Shop für erneuerbare Energien)
+* AvocadoStore: [🇩🇪](https://www.avocadostore.de) / [🇦🇹](https://www.avocadostore.at) (Marketplace für faire, nachhaltige oder vegane Produkte, vor allem Textilien und Haushaltsgegenstände)
+* [Galaxus](https://www.galaxus.de)
+* Gartenkraftwerke: [Gartenkraftwerke](https://gartenkraftwerke.de) (Shop für erneuerbare Energien)
+* [Kennzeichenprofis.de](https://kennzeichenprofis.de) (günstige Nummernschilder von der Lebenshilfe Werkstätte für behinderte Menschen Schwabach-Roth gGmbH)
+* Memo AG: [Privatkunden](https://www.memolife.de/) / [Geschäftskunden](https://www.memo.de/) (Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt-klima/logistik/memo-box/) und [Radlogistik](https://www.memoworld.de/radlogistik/))
+* Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
+* Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)

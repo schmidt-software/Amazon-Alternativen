@@ -1,253 +1,37 @@
 # Amazon-Alternativen
 Wenn ihr auch "schon immer" von Amazon weg oder zumindest den Konsum auf dieser Plattform einschränken wolltet, dann nutzt und beteiligt euch am Ausbau dieser Liste. Das ist eine lose Sammlung von Online-Shops (gerne auch mal direkt beim Hersteller), die es Wert sind, dass man bei ihnen bestellt.
 
-#### **HINWEIS**
+#### --HINWEIS--
 Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlungen vorher an. Nicht böse sein, sollte ich mal den einen oder anderen Vorschlag übersehen/vergessen.
 
 ---
 
-### 🏪 Allgemein
-* AvocadoStore: [🇩🇪](https://www.avocadostore.de) / [🇦🇹](https://www.avocadostore.at) (Marketplace für faire, nachhaltige oder vegane Produkte, vor allem Textilien und Haushaltsgegenstände)
-* [Galaxus](https://www.galaxus.de)
-* [Kennzeichenprofis.de](https://kennzeichenprofis.de) (günstige Nummernschilder von der Lebenshilfe Werkstätte für behinderte Menschen Schwabach-Roth gGmbH)
-* Memo AG: [Privatkunden](https://www.memolife.de/) / [Geschäftskunden](https://www.memo.de/) (Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt-klima/logistik/memo-box/) und [Radlogistik](https://www.memoworld.de/radlogistik/))
-* Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
-* Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)
-
-### ☀️ Erneuerbare Energien
-* Akkurat: [Akkurat](https://akkurat-gsv.de/shop) (Shop für erneuerbare Energien)
-* [Gartenkraftwerke](https://gartenkraftwerke.de) (alles rund ums Thema Solar-, Garten- und Balkonkraftwerke)
-* [Tepto](https://www.tepto.de) (viele verschiedene Angebote für Balkonkraftwerke)
-
-### 🔭 Astronomie
-* [Astro Shop](https://www.astroshop.de)
-* [Teleskop Express](https://www.teleskop-express.de)
-
-### 🧩 Brettspiele / Tabletop / Rollenspiele
-* [Drive Through RPG](https://www.drivethrurpg.com/) (verschiedenste Rollenspiele ohne DRM, steht auch für Hobbyisten offen)
-* [Fantasy Welt](https://www.fantasywelt.de)
-* [GaiaGames](https://gaiagames.de) (lehrreiche und kooperative Brettspiele, umweltschonend produziert)
-* [Lurch & Lama](https://lurchundlama.de) (Spiele und Merch)
-* [Milan Spiele](https://www.milan-spiele.de)
-* [Miniaturicum](https://www.miniaturicum.de) (Miniaturen für eine große Anzahl an Tabletopspielen)
-* [Pegasus Press Shop](https://pegasusshop.de/) (Verlag für Rollen- und Brettspiele, übernimmt den Versand für den Gratisrollenspieltag)
-* [SciFi-Trader](https://scifi-trader.de) (Battle-Tech)
-* [Spiele Offensive](https://spiele-offensive.de)
-* [Steinehelden](https://steinehelden.de) (LEGO-Shop der Lebenshilfe Westpfalz. Arbeitsplätze für Menschen mit Beeinträchtigungen.)
-* [Ulisses](https://ulisses-spiele.de/) (Rollenspielverlag mit Online-Shop)
-
-### 📚 Bücher
-* [Autorenwelt](https://shop.autorenwelt.de) (geben 7% der Buchhandelmarge an die Autor*innen des verkauften Buchs ab)
-* [Black Mosquito](https://black-mosquito.org) (linker Antifa Shop & Mailorder, in Kollektivverwaltung)
-* [booklooker](https://www.booklooker.de)
-* [Buchhandlung](https://www.buchhandlung.de/) (Deine lokale Buchhandlung vor Ort, Click & Collect oder Versand)
-* [Buchkatalog](https://www.buchkatalog.de) (Netzwerk von Buchhandlungen - online bestellen und im Laden um die Ecke abholen)
-* [buch7](https://www.buch7.de)
-* [Bücher.de](https://buecher.de)
-* [Bücherhallen Hamburg](https://www.buecherhallen.de) (lokales, sehr gutes Angebot, ausschliesslich in Hamburg)
-* [Epubli](https://www.epubli.com/) (Prind-on-Demand, Versand und Verkauf von ebooks und gedruckten Büchern, auch Privatdruck von PDF)
-* [Genial Lokal](https://www.genialokal.de) (Plattform zum Suchen nach lokalen Buchhandlungen)
-* [Koch Kontor](https://koch-kontor.de/) (Kleine Hamburger Buchhandlung spezialisiert auf Kochbücher)
-* [Lehmanns](https://www.lehmanns.de) (der Klassiker)
-* [Links Lesen](https://links-lesen.de) (linker Online Buchladen, selbstverwalteter Kollektivbetrieb)
-* [Wob](https://www.wob.com/de-de) (2nd Hand)
-* [yourbook](https://yourbook.shop) (Deine Stammbuchhandlung bekommt dann 15% von allen Einkäufen, die du bei yourbook machst. Wenn Dir Deine Buchhandlung bei yourbook ein Buch empfiehlt und du es kaufst, bekommt sie sogar 25%.)
-
-### 🥘 Ernährung
-* [Alt Wien](https://www.altwien.at) (Sehr sympathische Wiener Kaffeerösterei mit breiter Auswahl an frisch gerösteten Kaffees)
-* [Aroma Zapatista](https://www.aroma-zapatista.de) (ein Kollektiv aus Hamburg, das vor allem sehr leckeren Kaffee (aber auch Tee) von genossenschaftlich organisierten indigenen Kleinbauern aus Lateinamerika ohne Zwischenhändler anbietet)
-* [Bean United](https://www.bean-united.de) (finanziert soziale Projekte in den Bereichen Ernährung und Bildung, indem sie je verkauftes Kilo ihrer Kaffeebohnen €2,50 in ein soziales Projekt einzahlen)
-* [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
-* [Besserfleich](https://besserfleisch.de) (deutsches Kleinunternehmen das Cow-Sharing betreibt. Schlachtung erst bei kompletter Verwertung. Premiumfleisch)
-* [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
-* [Demmer's Teehaus](https://www.tee.at) (Hochqualitativer Tee und Tee Zubehör)
-* [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
-* [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle (in der Nähe von München) für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
-* [Fairafric](https://fairafric.com/collections/produkte) (Bieten Schokolade, für die nicht nur faire Löhne an Kakaobauern gezahlt wird, sondern die zudem auch komplett in Ghana produziert wird. Komplette Wertschöpfungskette dort.)
-* [Farmshops](https://farmshops.eu) (Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.)
-* [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
-* [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
-* [gebana](https://www.gebana.com/eu-de/) (Fairtrade, Vorratsportionen von Lebensmitteln wie (Trocken-)Früchten, Nüssen, Getreide, Tee und mehr)
-* [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
-* [Lauteracher Feldfrüchte](https://lauteracher.de/shop/) (Linsen, Buchweizen, Getreide, Ölsaaten & Öle, Nudeln, Gewürze)
-* [KaffeeShop 24](https://www.kaffeeshop24.de/) (Kaffee, Tee, Schokolade, Pralinen und Süßigkeiten, Zubehör)
-* [Knauf Biohof](https://www.biolandhof-knauf.de/onlineshop/) (Bioland Getriede)
-* [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
-* [Koro](https://www.korodrogerie.de) (Lebensmittel)
-* [Marktschwärmer](https://marktschwaermer.de/de) (Regional einkaufen, online bestellen, in der Nähe abholen (Wenn es eine örtliche Marktschwärmerei gibt))
-* [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
-* [Nordsee Bär](https://www.nordseebaer.de/) (Fruchtgummis und Lakritz in nordischen Formen und Geschmacksrichtungen)
-* [Obst Verbindet](https://obst-verbindet.de) (Obst und Gemüse retten, arbeiten direkt mit den Erzeugern resp. Grosshändlern zusammen)
-* [Ökokiste](https://www.oekokiste.de) (Netzwerk von Bauern, die Lebensmittel liefern)
-* [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
-* [Schokoladen Outlet](https://www.schokoladen-outlet.de/) (Alles rund um schokolade und Schokoladenbasierte Produkte, Vieles bio, auch vieles vegan)
-* [Schwarzwald Miso](https://www.schwarzwald-miso.de) (Bio Miso aus dem Schwarzwald, vegan)
-* [SirPlus](https://sirplus.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
-* [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
-* [Sonnentor](https://www.sonnentor.com/de-at/onlineshop) (Bio-Tees & Bio-Gewürze)
-* [Tagtraum Tee](https://www.ttt-shop.de) (Kleiner, alteingesessener Hamburger Versandhandel. Ein Online-Shop mit Reminiszenzen einer vergangenen Epoche 😃)
-* [Tee Gschwendner](https://www.teegschwendner.de) (Tee und Zubehör, gibt auch lokale Filialen)
-* [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
-* [Teekiste](https://www.teekiste.com) (Tee, Porzellan, Samoware)
-* [Überlegen](https://www.ueberlegen.online/) (Ein Online-Marktplatz für hochwertige und authentische Kaffees von Röstereien, die außergewöhnliches Engagement im Kaffeehandel zeigen)
-* [Urkornpuristen](https://urkornpuristen.de) (Urkorngetreide aus eigenem Anbau, ganzes Korn oder Mehl)
-* [Waldis Pizza](https://www.waldispizza.de) (Alles rund um Pizza: Mehl, Werkzeuge, Pizzaöfen, Zubehör etc.)
-
-### 🚲 Fahrräder und Zubehör
-* [Bike Components](https://bike-components.de)
-* [Bikehit](https://www.bikehit.de) (Fahrräder und Fahrradteile aus Dresden)
-* [Kurbelix](https://kurbelix.de) (Günstige Fahrradteile wie Laufräder & Laufradsätze im Online Shop kaufen)
-* [Meilenweit](https://www.meilenweit.net/) (hochwertiges, Reiseräder, Fahrradteile und Laufräder aus Bochum)
-* [Rose](https://www.rosebikes.de/) (Vollsortiment-Versandhändler mit Filialnetz aus Bocholt, Eigenmarken)
-
-### 🎁 Geschenke / Kunst / Postkarten
-* [Kwimbi](https://kwimbi.de)
-
-### 🐈 Haustiere
-* [Non-Stop Dogwear](https://www.nonstopdogwear.com/de/) (alles für den Hund, Shop in Norwegen, liefert rasch und unkompliziert in die D-A-CH Region)
-* zooplus [🇩🇪](https://www.zooplus.de) / [🇦🇹](https://www.zooplus.at)
-
-### 🧢 Klamotten
-* [About You](https://www.aboutyou.at)
-* [avocadostore](https://www.avocadostore.de)
-* [DarkAges](https://www.darkages.de) (Goth/Szene)
-* [Doghammer](https://www.doghammer.de) (Schuhe aus Deutschland, auch vegane Schuhe)
-* [Ehrlich Textil](https://erlich-textil.com) (Faire und nachhaltige Unterwäsche, vegan)
-* [Frija Omina](https://www.frija-omina.com) (nachhaltige Unterwäsche, Bademode und andere Klamotten, hergestellt in Brandenburg)
-* [Geniestreich Jeans](https://geniestreich-jeans.de) (Biojeans in Deutschland  hergestellt mit sehr netter und kompetenter Beratung)
-* [Grundstoff](https://www.grundstoff.net) (vertreibt [Marken](https://www.grundstoff.net/herstellerinfos), deren Klamotten fair und nachhaltig hergestellt werden)
-* [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
-* [Leguano](https://www.leguano.eu/) (Barfußschuhe)
-* [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
-* [Native Souls](https://www.nativesouls.de) (fair trade Mode, organic, nachhaltig und vegan)
-* [Picksports](https://www.picksport.de) (Klamottenoutlet - sportlastig)
-* [Runamics](https://www.runamics.com/) ("planet-friendly running wear")
-* [Sellpy](https://www.sellpy.de) (Second-Hand)
-* [Skinners](https://skinners.cc/de/) (Minimalistische Barfuß-Schuhe)
-* [Taynie](https://taynie.de) (Periodenunterwäsche, vegan, frei von Bioziden, 60°C waschbar, Tampons, Binden, Cups, Socken, Shorts & Socken für Männer)
-* Vinted: [🇩🇪](https://vinted.de) / [🇦🇹](https://vinted.at) (2nd Hand)
-* [Waldviertler](https://gea-waldviertler.at/shop/) Hochwertige Lederschuhe aus dem österreichischen Waldviertel. Auch mit Filialen in Deutschland!
-* [Vishes](https://shop.vishes.de) (alternativ/bunt)
-* [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
-* [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
-
-### 💊 Gesundheit / Medizin / Apotheken
-* [IhreApotheken.de](https://www.ihreapotheken.de) (übergreifendes Online-Framework vieler niedergelassener Apotheken in Deutschland,Angebot wechselt je nach lokaler Apotheke, oft aber Bestellung, Kurierlieferung, etc.)
-
-### 🧴 Kosmetik / Drogerie
-* [Ben & Anna](https://ben-anna.de) (Körperpflege, vegan, frei von Plastik)
-* [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
-* [Ferkel & Pfeffer](https://ferkelundpfeffer.com) (handgemachte, vegane Naturkosmetik aus dem Herzen Leipzigs - plastikfrei, geliefert in einer biologisch abbaubaren Verpackung)
-* [natur Pur](https://www.shop-naturpur.de) (Natur Kosmetik)
-* [OMAKA](https://www.omaka.de/) (Naturkosmetik für Locken und Afro Haare)
-* [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
-* [Rosenrot](https://www.rosenrot.de) (Pionier im Bereich der natürlichen Haar- und Körperpflege in fester Form)
-
-### 🍿 Musik / Foto / Video / Unterhaltung
-* [Bandcamp](https://bandcamp.com) (direkt vom Künstler kaufen)
-* [Capelight](https://shop.capelight.de)
-* [CeDe](https://www.cede.de/de) (kostenloser Versand)
-* [Coretex Records](https://coretexrecords.com)
-* [Discogs](https://www.discogs.com)
-* [Foto Mundus](https://www.foto-mundus.de) (Bietet diverse Kameras, Zubehör und auch gebrauchte Bodys und Objektive.)
-* [jpc](https://www.jpc.de)
-* [mpb](https://www.mpb.com/de-de) (hochwertige, gebrauchte Foto- und Kameraausrüstung)
-* Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at) (2nd Hand)
-* [Music Store](https://musicstore.de) (MUSIC STORE professional - Online-Shop für Musikinstrumente)
-* Qobuz: [🇩🇪](https://www.qobuz.com/de-de/) / [🇦🇹](https://www.qobuz.com/at-de/)
-* Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at) (2nd Hand)
-* [Session](https://www.session.de) (Musikinstrumente)
-* [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
-
-### 📝 Schreibwaren und Bürobedarf
-* [Bürobedarf Hämpel](https://www.buerobedarf-haempel.de) (Allerlei Schreibwaren und Bürozubehör)
-* [FairToner](https://www.fairtoner.de)
-* [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
-* [HD-Toner](https://www.hd-toner.de) (Tinte, Toner aus Uelzen)
-* [memo](https://www.memo.de/) (Bürobedarf, Bürotechnik etc.)
-* [Papier & Stift](https://www.papierundstift.de)
-
-### 📺 Unterhaltungselektronik
-* AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
-* Berrybase: [🇩🇪](https://www.berrybase.de) / [🇦🇹](https://www.berrybase.at)
-* Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
-* [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
-* [Elektroshop Wagner](https://www.elektroshopwagner.de)
-* ELV [🇩🇪](https://de.elv.com) / [🇨🇭](https://ch.elv.com) (elektronische Bauteile und -Komponenten)
-* [Fairphone](https://shop.fairphone.com/)
-* [funduino](https://funduinoshop.com/) (Arduinos und Zubehör, auch Filament für 3D-Druck. Schulen erhalten Rabatt.)
-* [funk24](https://shop.funk24.net)
-* [FS](https://www.fs.com/de) (Netzwerkequipment)
-* [Mindfactory](https://www.mindfactory.de) (gute Auswahl zu fairen Preisen, versandkostenfrei im Midnight-Shopping, tlw. sehr günstige Angebote unter Mindstars)
-* [MyLemon](https://mylemon.at)
-* Pollin: [🇩🇪](https://www.pollin.de) / [🇦🇹](https://www.pollin.at) (oft sehr gute Angebote bei Shelly-Komponenten)
-* [RasppiShop](https://www.rasppishop.de)
-* Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
-* [Shelly](https://www.shelly.com/)
-* [Shift](https://shop.shiftphones.com/)
-* [Tindie](https://www.tindie.com) (massig DYI Hardware Nerd Kram)
-
-### 🖥️ Computer
-* [Computer Universe](https://www.computeruniverse.net/de) (Recht bekannter Technik Online Shop, seit 1999)
-* Frame.work: [🇩🇪](https://frame.work/de/de) / [🇦🇹](https://frame.work/at/de) (modulare und vor allem reparierbare(!) Laptops)
-* [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
-* Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
-* [Second IT Store](https://second-it-store.de) (Shop für gebrauchte IT, viele Lenovo und HP Laptops, aber auch immer anderes wie Iphones.)
-* [Tuxedo Computers](https://www.tuxedocomputers.com/) (Deutscher Hersteller für Linux und Dual Boot Notebooks und PCs)
-
-### 🔌 Elektrotechnik / Smart-Home
-* [Elektro-Wandelt.de](https://www.elektro-wandelt.de) (Elektroinstallationsmaterial, Lampen, Smart-Home-Komponenten, Leuchtmittel, alles eher aus dem Profibereich, wenig/keine Chinaware, auch für Privatkunden, oft auf Großhandelspreisniveau. Lieferung zuverlässig, Komponenten Markenware)
-
-### 🛠️ Werkzeuge / DIY / Handwerken
-* [Aisler](https://aisler.net) (Platinenherstellung aus Deutschland/EU)
-* [Dictum](https://www.dictum.com) (Hochwertiges Werkzeug; Spezialist für japanische Sägen und Messer liegt eher im oberen Preissegment)
-* [Elektroshop Wagner](https://www.elektroshopwagner.de)
-* [Feine Werkzeuge](https://www.feinewerkzeuge.de) (Hochwertige Handwerkzeuge, v.a. zur Holzbearbeitung, Mittelständler, sehr guter Service, derzeit die besten Profiwerkzeuge am Markt, bis jetzt immer sehr gute Erfahrungen gemacht. Leider nicht billig.)
-* [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
-* [Grey Element](https://grey-element.shop)
-* [Kabelscheune](https://www.kabelscheune.de) (große Auswahl an Kabeln für den Heimwerkerbedarf)
-* [Kunstpark](Kunstpark-Shop.de) (Künstlerbedarf, Bastelbedarf, Zeichenbedarf)
-* [ManoMano](https://www.manomano.de)
-* [modulor](https://modulor.de) (Künstler- und DIY-Bedarf, haben auch ein Ladengeschäft in Berlin)
-* [Online-Schrauben](https://online-schrauben.de)
-* [Voltus](https://www.voltus.de) (große Auswahl und faire Preise für die gängigen Schalterhersteller)
-
-### 🏡 Wohnen
-* [avocadostore](https://www.avocadostore.de)
-* [futonwerkstatt](https://shop.futonwerkstatt.de/) (Matrazen, Futons, Betten und zubehör. Manufaktur bei Berlin seit 1987)
-
-### 💶 2nd Hand / Refurbished
-* [Back Market](https://www.backmarket.de/) (Ein weltweiter Marktplatz für professionell erneuerte Technik, z.B. Apple-Produkte, Spielkonsolen, etc.) 
-* [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
-* [ITSCO](https://www.itsco.de) (gebrauchtes IT-Equipment)
-* [Medimops](https://www.medimops.de)
-* Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at)
-* [Notebookgalerie](https://www.notebookgalerie.de/) (Refurbished IT-Equipment, z.B. Laptops, Bildschirme, Smartphones und Tablets) 
-* [Piospartslab](https://www.piospartslap.de) (gebrauchtes IT-Equipment (gute Thin Client Angebote), faire Preisvorschläge (minus 10/20%) werden i.d.R. angenommen)
-* Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at)
-* Refurbed: [🇩🇪](https://www.refurbed.de) / [🇦🇹](https://www.refurbed.at)
-* [Second IT Store](https://second-it-store.de) (Shop für gebrauchte IT, viele Lenovo und HP Laptops, aber auch immer anderes wie Iphones.)
-* [Wob](https://www.wob.com/de-de) (Bücher, Musik, Filme)
-
-### 🖨️ 3D Druck
-* [AURAPOL](https://www.aurapol.com/de/)
-* [Bavaria-Filaments](https://www.bavaria-filaments.com)
-* [Das Filament](https://www.dasfilament.de)
-* [extrudr](https://www.extrudr.com/de/shop-eu/?locale=de) (österr. Firma, direkt bei mir umme Ecke 😃)
-* [funduino](https://funduinoshop.com/) (Arduinos und Zubehör, auch Filament für 3D-Druck. Schulen erhalten Rabatt.)
-* [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in [deren Shop](https://recyclingfabrik.com/shop/) erwerben kannst)
-
-### ⛵️ Segeln
-* [12 Seemeilen](https://www.12seemeilen.de) (Bootszubehör und Segelbekleidung)
-* [Compas 24](https://www.compass24.de) (Bootszubehör, Wassersport, Segelbekleidung & Yachtzubehör)
-
-### 🥏 Disc Golf
-* [Inside the Circle](https://www.inside-the-circle.de/) (Hat eine angenehme Auswahl verschiedenster Anbieter)
-* [Thrownatur Disc Golf](https://thrownatur-discgolf.de/de/) (Bietet alles rund um den Sport, Scheiben, Körbe, Rucksäcke.)
+- 🖨️ [3D Druck](categories/3d-printing.md)
+- 🏪 [Allgemein](categories/general.md) - Gemischtes Sortiment oder nicht eindeutig Kategorisierbar.
+- 🔭 [Astronomie](categories/astronomy.md)
+- 🧩 [Brettspiele / Tabletop / Rollenspiele](categories/board-games.md)
+- 📚 [Bücher](categories/books.md)
+- 🖥️ [Computer](categories/computer.md)
+- 🔌 [Elektrotechnik / Smart-Home](categories/smart-home.md)
+- ☀️ [Erneuerbare Energien](categories/renewable-energies.md)
+- 🥘 [Ernährung](categories/nutrition.md)
+- 🚲 [Fahrräder und Zubehör](categories/bicycles.md)
+- 🎁 [Geschenke / Kunst / Postkarten](categories/presents.md)
+- 💊 [Gesundheit / Medizin / Apotheken](categories/health.md)
+- 🐈 [Haustiere](categories/pets.md)
+- 🧢 [Klamotten](categories/clothes.md)
+- 🧴 [Kosmetik / Drogerie](categories/drugstore.md)
+- 🍿 [Musik / Foto / Video / Unterhaltung](categories/entertainment.md)
+- 💶 [Refurbished / 2nd Hand](categories/refurbished.md)
+- 📝 [Schreibwaren und Bürobedarf](categories/stationary.md)
+- ⛵️ [Segeln](categories/sailing.md)
+- 📺 [Unterhaltungselektronik](categories/consumer-electronics.md)
+- 🛠️ [Werkzeuge / DIY / Handwerken](categories/tools-diy.md)
+- 🏡 [Wohnen](categories/living.md)
   
 ## Andere, extern kuratierte Listen von Händlern
-* 150 [Elektronikversender](https://www.mikrocontroller.net/articles/Elektronikversender) (Liste, welche von Mikrocontroller.net gepflegt wird. Das ist nur eine Weiterleitung)
-* 33 [Eisenwarenversender](https://www.mikrocontroller.net/articles/Eisenwarenversender) (Liste, welche von Mikrocontroller.net gepflegt wird. Das ist nur eine Weiterleitung)
+- 150 [Elektronikversender](https://www.mikrocontroller.net/articles/Elektronikversender) (Liste, welche von Mikrocontroller.net gepflegt wird. Das ist nur eine Weiterleitung)
+- 33 [Eisenwarenversender](https://www.mikrocontroller.net/articles/Eisenwarenversender) (Liste, welche von Mikrocontroller.net gepflegt wird. Das ist nur eine Weiterleitung)
 
 ## Mitmachen
 Alle die, die mit Codeberg vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen nutzen bitte die [Issue-Funktion](https://codeberg.org/phranck/Amazon-Alternativen/issues), und tragen dort ihre Ergänzungsvorschläge ein. Es muss nicht jede Ergänzung ein eigenes Issue sein. Gerne auch mehrere als ein Issue verpacken.
