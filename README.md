@@ -24,6 +24,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [GaiaGames](https://gaiagames.de) (lehrreiche und kooperative Brettspiele, umweltschonend produziert)
 * [Lurch & Lama](https://lurchundlama.de) (Spiele und Merch)
 * [Milan Spiele](https://www.milan-spiele.de)
+* [Miniaturicum](https://www.miniaturicum.de) (Miniaturen für eine große Anzahl an Tabletopspielen)
 * [SciFi-Trader](https://scifi-trader.de) (Battle-Tech)
 * [Spiele Offensive](https://spiele-offensive.de)
 
