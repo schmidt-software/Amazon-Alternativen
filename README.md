@@ -106,6 +106,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
 * [Taynie](https://taynie.de) (Periodenunterwäsche, vegan, frei von Bioziden, 60°C waschbar, Tampons, Binden, Cups, Socken, Shorts & Socken für Männer)
 * Vinted: [🇩🇪](https://vinted.de) / [🇦🇹](https://vinted.at) (2nd Hand)
+* [Waldviertler](https://gea-waldviertler.at/shop/) Hochwertige Lederschuhe aus dem österreichischen Waldviertel. Auch mit Filialen in Deutschland!
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
 * [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
