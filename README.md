@@ -25,9 +25,11 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Lurch & Lama](https://lurchundlama.de) (Spiele und Merch)
 * [Milan Spiele](https://www.milan-spiele.de)
 * [Miniaturicum](https://www.miniaturicum.de) (Miniaturen für eine große Anzahl an Tabletopspielen)
+* [Pegasus Press Shop](https://pegasusshop.de/) (Verlag für Rollen- und Brettspiele, übernimmt den Versand für den Gratisrollenspieltag)
 * [SciFi-Trader](https://scifi-trader.de) (Battle-Tech)
 * [Spiele Offensive](https://spiele-offensive.de)
 * [Steinehelden](https://steinehelden.de) (LEGO-Shop der Lebenshilfe Westpfalz. Arbeitsplätze für Menschen mit Beeinträchtigungen.)
+* [Ulisses](https://ulisses-spiele.de/) (Rollenspielverlag mit Online-Shop)
 
 ### 📚 Bücher
 * [Autorenwelt](https://shop.autorenwelt.de) (geben 7% der Buchhandelmarge an die Autor*innen des verkauften Buchs ab)
@@ -38,17 +40,22 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [buch7](https://www.buch7.de)
 * [Bücher.de](https://buecher.de)
 * [Bücherhallen Hamburg](https://www.buecherhallen.de) (lokales, sehr gutes Angebot, ausschliesslich in Hamburg)
+* [Epubli](https://www.epubli.com/) (Prind-on-Demand, Versand und Verkauf von ebooks und gedruckten Büchern, auch Privatdruck von PDF)
 * [Genial Lokal](https://www.genialokal.de) (Plattform zum Suchen nach lokalen Buchhandlungen)
+* [Koch Kontor](https://koch-kontor.de/) (Kleine Hamburger Buchhandlung spezialisiert auf Kochbücher)
 * [Lehmanns](https://www.lehmanns.de) (der Klassiker)
 * [Links Lesen](https://links-lesen.de) (linker Online Buchladen, selbstverwalteter Kollektivbetrieb)
 * [Wob](https://www.wob.com/de-de) (2nd Hand)
 * [yourbook](https://yourbook.shop) (Deine Stammbuchhandlung bekommt dann 15% von allen Einkäufen, die du bei yourbook machst. Wenn Dir Deine Buchhandlung bei yourbook ein Buch empfiehlt und du es kaufst, bekommt sie sogar 25%.)
 
 ### 🥘 Ernährung
+* [Alt Wien](https://www.altwien.at) (Sehr sympathische Wiener Kaffeerösterei mit breiter Auswahl an frisch gerösteten Kaffees)
 * [Aroma Zapatista](https://www.aroma-zapatista.de) (ein Kollektiv aus Hamburg, das vor allem sehr leckeren Kaffee (aber auch Tee) von genossenschaftlich organisierten indigenen Kleinbauern aus Lateinamerika ohne Zwischenhändler anbietet)
 * [Bean United](https://www.bean-united.de) (finanziert soziale Projekte in den Bereichen Ernährung und Bildung, indem sie je verkauftes Kilo ihrer Kaffeebohnen €2,50 in ein soziales Projekt einzahlen)
 * [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
+* [Besserfleich](https://besserfleisch.de) (deutsches Kleinunternehmen das Cow-Sharing betreibt. Schlachtung erst bei kompletter Verwertung. Premiumfleisch)
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
+* [Demmer's Teehaus](https://www.tee.at) (Hochqualitativer Tee und Tee Zubehör)
 * [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
 * [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle (in der Nähe von München) für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
 * [Farmshops](https://www.farmshops.eu) (Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.)
@@ -57,13 +64,16 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [gebana](https://www.gebana.com/eu-de/) (Fairtrade, Vorratsportionen von Lebensmitteln wie (Trocken-)Früchten, Nüssen, Getreide, Tee und mehr)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
 * [Lauteracher Feldfrüchte](https://lauteracher.de/shop/) (Linsen, Buchweizen, Getreide, Ölsaaten & Öle, Nudeln, Gewürze)
+* [KaffeeShop 24](https://www.kaffeeshop24.de/) (Kaffee, Tee, Schokolade, Pralinen und Süßigkeiten, Zubehör)
 * [Knauf Biohof](https://www.biolandhof-knauf.de/onlineshop/) (Bioland Getriede)
 * [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
 * [Koro](https://www.korodrogerie.de) (Lebensmittel)
 * [Marktschwärmer](https://marktschwaermer.de/de) (Regional einkaufen, online bestellen, in der Nähe abholen (Wenn es eine örtliche Marktschwärmerei gibt))
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
+* [Nordsee Bär](https://www.nordseebaer.de/) (Fruchtgummis und Lakritz in nordischen Formen und Geschmacksrichtungen)
 * [Ökokiste](https://www.oekokiste.de) (Netzwerk von Bauern, die Lebensmittel liefern)
 * [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
+* [Schokoladen Outlet](https://www.schokoladen-outlet.de/) (Alles rund um schokolade und Schokoladenbasierte Produkte, Vieles bio, auch vieles vegan)
 * [Schwarzwald Miso](https://www.schwarzwald-miso.de) (Bio Miso aus dem Schwarzwald, vegan)
 * [SirPlus](https://sirplus.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
@@ -100,10 +110,12 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Geniestreich Jeans](https://geniestreich-jeans.de) (Biojeans in Deutschland  hergestellt mit sehr netter und kompetenter Beratung)
 * [Grundstoff](https://www.grundstoff.net) (vertreibt [Marken](https://www.grundstoff.net/herstellerinfos), deren Klamotten fair und nachhaltig hergestellt werden)
 * [Kings Of Indigo](https://kingsofindigo.com/de-deat) (nachhaltige Jeans)
+* [Leguano](https://www.leguano.eu/) (Barfußschuhe)
 * [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
 * [Native Souls](https://www.nativesouls.de) (fair trade Mode, organic, nachhaltig und vegan)
 * [Picksports](https://www.picksport.de) (Klamottenoutlet - sportlastig)
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
+* [Skinners](https://skinners.cc/de/) (Minimalistische Barfuß-Schuhe)
 * [Taynie](https://taynie.de) (Periodenunterwäsche, vegan, frei von Bioziden, 60°C waschbar, Tampons, Binden, Cups, Socken, Shorts & Socken für Männer)
 * Vinted: [🇩🇪](https://vinted.de) / [🇦🇹](https://vinted.at) (2nd Hand)
 * [Waldviertler](https://gea-waldviertler.at/shop/) Hochwertige Lederschuhe aus dem österreichischen Waldviertel. Auch mit Filialen in Deutschland!
@@ -119,8 +131,8 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
 * [natur Pur](https://www.shop-naturpur.de) (Natur Kosmetik)
 * [OMAKA](https://www.omaka.de/) (Naturkosmetik für Locken und Afro Haare)
-* [Rosenrot](https://www.rosenrot.de) (Pionier im Bereich der natürlichen Haar- und Körperpflege in fester Form)
 * [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
+* [Rosenrot](https://www.rosenrot.de) (Pionier im Bereich der natürlichen Haar- und Körperpflege in fester Form)
 
 ### 🍿 Musik / Foto / Video / Unterhaltung
 * [Bandcamp](https://bandcamp.com) (direkt vom Künstler kaufen)
@@ -171,6 +183,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
 * [Second IT Store](https://second-it-store.de) (Shop für gebrauchte IT, viele Lenovo und HP Laptops, aber auch immer anderes wie Iphones.)
+* [Tuxedo Computers](https://www.tuxedocomputers.com/) (Deutscher Hersteller für Linux und Dual Boot Notebooks und PCs)
 
 ### 🔌 Elektrotechnik / Smart-Home
 * [Elektro-Wandelt.de](https://www.elektro-wandelt.de) (Elektroinstallationsmaterial, Lampen, Smart-Home-Komponenten, Leuchtmittel, alles eher aus dem Profibereich, wenig/keine Chinaware, auch für Privatkunden, oft auf Großhandelspreisniveau. Lieferung zuverlässig, Komponenten Markenware)
@@ -191,12 +204,15 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 
 ### 🏡 Wohnen
 * [avocadostore](https://www.avocadostore.de)
+* [futonwerkstatt](https://shop.futonwerkstatt.de/) (Matrazen, Futons, Betten und zubehör. Manufaktur bei Berlin seit 1987)
 
 ### 💶 2nd Hand / Refurbished
+* [Back Market](https://www.backmarket.de/) (Ein weltweiter Marktplatz für professionell erneuerte Technik, z.B. Apple-Produkte, Spielkonsolen, etc.) 
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
 * [ITSCO](https://www.itsco.de) (gebrauchtes IT-Equipment)
 * [Medimops](https://www.medimops.de)
 * Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at)
+* [Notebookgalerie](https://www.notebookgalerie.de/) (Refurbished IT-Equipment, z.B. Laptops, Bildschirme, Smartphones und Tablets) 
 * [Piospartslab](https://www.piospartslap.de) (gebrauchtes IT-Equipment (gute Thin Client Angebote), faire Preisvorschläge (minus 10/20%) werden i.d.R. angenommen)
 * Rebuy: [🇩🇪](https://rebuy.de) / [🇦🇹](https://rebuy.at)
 * Refurbed: [🇩🇪](https://www.refurbed.de) / [🇦🇹](https://www.refurbed.at)
