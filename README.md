@@ -176,7 +176,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 ### 🛠️ Werkzeuge / DIY / Handwerken
 * [Aisler](https://aisler.net) (Platinenherstellung aus Deutschland/EU)
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
-* [Feine Werkzeuge](https://www.feine-werkzeuge.de) (Hochwertige Handwerkzeuge, v.a. zur Holzbearbeitung, Mittelständler, sehr guter Service, derzeit die besten Profiwerkzeuge am Markt, bis jetzt immer sehr gute Erfahrungen gemacht. Leider nicht billig.)
+* [Feine Werkzeuge](https://www.feinewerkzeuge.de) (Hochwertige Handwerkzeuge, v.a. zur Holzbearbeitung, Mittelständler, sehr guter Service, derzeit die besten Profiwerkzeuge am Markt, bis jetzt immer sehr gute Erfahrungen gemacht. Leider nicht billig.)
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [Grey Element](https://grey-element.shop)
 * [Kabelscheune](https://www.kabelscheune.de) (große Auswahl an Kabeln für den Heimwerkerbedarf)
