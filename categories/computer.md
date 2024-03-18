@@ -9,7 +9,7 @@ modulare und vor allem reparierbare(!) Laptops
 * [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de)\
 verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
-* [OFFICE PArtner](https://www.office-partner.de/)\
+* [OFFICE Partner](https://www.office-partner.de/)\
 Bürobedarf, Computer und andere Hardware
 * [Second IT Store](https://second-it-store.de)\
 Shop für gebrauchte IT, viele Lenovo und HP Laptops, aber auch immer anderes wie Iphones.

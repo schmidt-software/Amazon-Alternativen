@@ -16,7 +16,5 @@ Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt
 Ja, die gibt es noch immer.
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at)\
 Wer kennt ihn nicht, diesen Ramschladen! 😂.
-* [PROSHOP](https://www.proshop.de/)\
-Schwerpunkt Technik, große Auswahl und mitunter gute Angebote, 4.6/5 Trusted-Shops-Ratings
 * [vistaprint](https://www.vistaprint.com/)\
 Dinge bedrucken lassen

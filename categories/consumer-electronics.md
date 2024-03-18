@@ -22,7 +22,7 @@ Netzwerkequipment.
 * [Mindfactory](https://www.mindfactory.de)\
 Gute Auswahl zu fairen Preisen, versandkostenfrei im Midnight-Shopping, tlw. sehr günstige Angebote unter Mindstars.
 * [MyLemon](https://mylemon.at)
-* [OFFICE PArtner](https://www.office-partner.de/)\
+* [OFFICE Partner](https://www.office-partner.de/)\
 Bürobedarf, Computer und andere Hardware
 * Pollin: [🇩🇪](https://www.pollin.de) / [🇦🇹](https://www.pollin.at)\
 Oft sehr gute Angebote bei Shelly-Komponenten.
