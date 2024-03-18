@@ -25,9 +25,11 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Lurch & Lama](https://lurchundlama.de) (Spiele und Merch)
 * [Milan Spiele](https://www.milan-spiele.de)
 * [Miniaturicum](https://www.miniaturicum.de) (Miniaturen für eine große Anzahl an Tabletopspielen)
+* [Pegasus Press Shop](https://pegasusshop.de/) (Verlag für Rollen- und Brettspiele, übernimmt den Versand für den Gratisrollenspieltag)
 * [SciFi-Trader](https://scifi-trader.de) (Battle-Tech)
 * [Spiele Offensive](https://spiele-offensive.de)
 * [Steinehelden](https://steinehelden.de) (LEGO-Shop der Lebenshilfe Westpfalz. Arbeitsplätze für Menschen mit Beeinträchtigungen.)
+* [Ulisses](https://ulisses-spiele.de/) (Rollenspielverlag mit Online-Shop)
 
 ### 📚 Bücher
 * [Autorenwelt](https://shop.autorenwelt.de) (geben 7% der Buchhandelmarge an die Autor*innen des verkauften Buchs ab)
@@ -38,6 +40,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [buch7](https://www.buch7.de)
 * [Bücher.de](https://buecher.de)
 * [Bücherhallen Hamburg](https://www.buecherhallen.de) (lokales, sehr gutes Angebot, ausschliesslich in Hamburg)
+* [Epubli](https://www.epubli.com/) (Prind-on-Demand, Versand und Verkauf von ebooks und gedruckten Büchern, auch Privatdruck von PDF)
 * [Genial Lokal](https://www.genialokal.de) (Plattform zum Suchen nach lokalen Buchhandlungen)
 * [Lehmanns](https://www.lehmanns.de) (der Klassiker)
 * [Links Lesen](https://links-lesen.de) (linker Online Buchladen, selbstverwalteter Kollektivbetrieb)
