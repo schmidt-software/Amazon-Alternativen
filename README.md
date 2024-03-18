@@ -24,7 +24,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 - 🍿 [Musik / Foto / Video / Unterhaltung](categories/entertainment.md)
 - 💶 [Refurbished / 2nd Hand](categories/refurbished.md)
 - 📝 [Schreibwaren und Bürobedarf](categories/stationary.md)
-- ⛵️ [Segeln](categories/sailing.md)
+- 🏀 [Sport](categories/sports.md)
 - 📺 [Unterhaltungselektronik](categories/consumer-electronics.md)
 - 🛠️ [Werkzeuge / DIY / Handwerken](categories/tools-diy.md)
 - 🏡 [Wohnen](categories/living.md)
@@ -37,6 +37,8 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 Alle die, die mit Codeberg vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen nutzen bitte die [Issue-Funktion](https://codeberg.org/phranck/Amazon-Alternativen/issues), und tragen dort ihre Ergänzungsvorschläge ein. Es muss nicht jede Ergänzung ein eigenes Issue sein. Gerne auch mehrere als ein Issue verpacken.
 
 Bitte die Einträge entsprechend ihrer Kategorie alphabetisch sortiert eintragen (als wäre alles klein geschrieben). Danke. 🙏
+
+***Achja, falls jemand das Bedürfnis verspürt aktiver mitzumachen, dann meldet euch bei mir, ich kann euch als "Collaborator" einladen, und somit habt ihr mehr Rechte im Repo***.
 
 ## Disclaimer
 Diese Liste entstand am Vormittag des 17. März 2024 als fixe Idee von mir, als ich realisierte, dass ich bereits seit dem Jahre 2000 ununterbrochen Kunde von Amazon bin. Vergangene Versuche davon "loszukommen" scheiterten bisher ausnahmslos. Eigentlich wollte ich nur ein paar Alternativvorschläge einsammeln, wo ich noch mein Zeugs kaufen könnte. Also stellte ich auf [Mastodon](https://chaos.social/@phranck/112110172143548005) zunächst nur eine Frage (den Link zur Liste gab es da noch gar nicht, weil es noch keine Liste gab 🙄).
