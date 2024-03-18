@@ -52,7 +52,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [CrowdFarming](https://www.crowdfarming.com/de) (versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen)
 * [Demmer's Teehaus](https://www.tee.at) (Hochqualitativer Tee und Tee Zubehör)
 * [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
-* [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
+* [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle (in der Nähe von München) für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
 * [Farmshops](https://www.farmshops.eu) (Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.)
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
@@ -108,6 +108,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
 * [Taynie](https://taynie.de) (Periodenunterwäsche, vegan, frei von Bioziden, 60°C waschbar, Tampons, Binden, Cups, Socken, Shorts & Socken für Männer)
 * Vinted: [🇩🇪](https://vinted.de) / [🇦🇹](https://vinted.at) (2nd Hand)
+* [Waldviertler](https://gea-waldviertler.at/shop/) Hochwertige Lederschuhe aus dem österreichischen Waldviertel. Auch mit Filialen in Deutschland!
 * [Vishes](https://shop.vishes.de) (alternativ/bunt)
 * [wijld - Made of Wood](https://www.wijld.com) (nachhaltige Klamotten aus... nunja, Holz 😃)
 * [Wildling Shoes](https://www.wildling.shoes) (In der EU ökologisch produzierte Barfußschuhe)
@@ -128,6 +129,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [CeDe](https://www.cede.de/de) (kostenloser Versand)
 * [Coretex Records](https://coretexrecords.com)
 * [Discogs](https://www.discogs.com)
+* [Foto Mundus](https://www.foto-mundus.de) (Bietet diverse Kameras, Zubehör und auch gebrauchte Bodys und Objektive.)
 * [jpc](https://www.jpc.de)
 * [mpb](https://www.mpb.com/de-de) (hochwertige, gebrauchte Foto- und Kameraausrüstung)
 * Momox: [🇩🇪](https://momox.de) / [🇦🇹](https://momox.at) (2nd Hand)
@@ -137,7 +139,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Session](https://www.session.de) (Musikinstrumente)
 * [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
 
-### 🔏 Schreibwaren und Bürobedarf
+### 📝 Schreibwaren und Bürobedarf
 * [Bürobedarf Hämpel](https://www.buerobedarf-haempel.de) (Allerlei Schreibwaren und Bürozubehör)
 * [FairToner](https://www.fairtoner.de)
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
@@ -147,7 +149,6 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 
 ### 📺 Unterhaltungselektronik
 * AfB: [🇩🇪](https://afbshop.de) / [🇦🇹](https://afbshop.at) (social & green IT)
-* [AZ-Delivery](https://www.az-delivery.de) (elektronische Bauteile und -Komponenten)
 * Berrybase: [🇩🇪](https://www.berrybase.de) / [🇦🇹](https://www.berrybase.at)
 * Conrad: [🇩🇪](https://www.conrad.de) / [🇦🇹](https://www.conrad.at)
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
@@ -165,20 +166,21 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Shift](https://shop.shiftphones.com/)
 * [Tindie](https://www.tindie.com) (massig DYI Hardware Nerd Kram)
 
-## 🖥️ Computer
+### 🖥️ Computer
 * [Computer Universe](https://www.computeruniverse.net/de) (Recht bekannter Technik Online Shop, seit 1999)
 * Frame.work: [🇩🇪](https://frame.work/de/de) / [🇦🇹](https://frame.work/at/de) (modulare und vor allem reparierbare(!) Laptops)
 * [NBWN - Notebooks wie Neu](https://www.notebookswieneu.de) (verkauft Lenovo Evaluation-Rückläufer, also Rechner die Großkunden verwenden um das passende Modell auszuwählen)
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
 * [Second IT Store](https://second-it-store.de) (Shop für gebrauchte IT, viele Lenovo und HP Laptops, aber auch immer anderes wie Iphones.)
 
-### ⚡️ Elektrotechnik / Smart-Home
+### 🔌 Elektrotechnik / Smart-Home
 * [Elektro-Wandelt.de](https://www.elektro-wandelt.de) (Elektroinstallationsmaterial, Lampen, Smart-Home-Komponenten, Leuchtmittel, alles eher aus dem Profibereich, wenig/keine Chinaware, auch für Privatkunden, oft auf Großhandelspreisniveau. Lieferung zuverlässig, Komponenten Markenware)
 
 ### 🛠️ Werkzeuge / DIY / Handwerken
 * [Aisler](https://aisler.net) (Platinenherstellung aus Deutschland/EU)
+* [Dictum](https://www.dictum.com) (Hochwertiges Werkzeug; Spezialist für japanische Sägen und Messer liegt eher im oberen Preissegment)
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
-* [Feine Werkzeuge](https://www.feine-werkzeuge.de) (Hochwertige Handwerkzeuge, v.a. zur Holzbearbeitung, Mittelständler, sehr guter Service, derzeit die besten Profiwerkzeuge am Markt, bis jetzt immer sehr gute Erfahrungen gemacht. Leider nicht billig.)
+* [Feine Werkzeuge](https://www.feinewerkzeuge.de) (Hochwertige Handwerkzeuge, v.a. zur Holzbearbeitung, Mittelständler, sehr guter Service, derzeit die besten Profiwerkzeuge am Markt, bis jetzt immer sehr gute Erfahrungen gemacht. Leider nicht billig.)
 * [FunFabric](https://funfabric.com) (Schnittmuster, Stoffe und Kurzwaren)
 * [Grey Element](https://grey-element.shop)
 * [Kabelscheune](https://www.kabelscheune.de) (große Auswahl an Kabeln für den Heimwerkerbedarf)
@@ -213,6 +215,9 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [12 Seemeilen](https://www.12seemeilen.de) (Bootszubehör und Segelbekleidung)
 * [Compas 24](https://www.compass24.de) (Bootszubehör, Wassersport, Segelbekleidung & Yachtzubehör)
   
+## Andere, extern kuratierte Listen von Händlern
+* 150 [Elektronikversender](https://www.mikrocontroller.net/articles/Elektronikversender) (Liste, welche von Mikrocontroller.net gepflegt wird. Das ist nur eine Weiterleitung)
+* 33 [Eisenwarenversender](https://www.mikrocontroller.net/articles/Eisenwarenversender) (Liste, welche von Mikrocontroller.net gepflegt wird. Das ist nur eine Weiterleitung)
 
 ## Mitmachen
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen nutzen bitte die [Issue-Funktion](https://github.com/phranck/Amazon-Alternativen/issues), und tragen dort ihre Ergänzungsvorschläge ein. Es muss nicht jede Ergänzung ein eigenes Issue sein. Gerne auch mehrere als ein Issue verpacken.
