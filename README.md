@@ -170,7 +170,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * Notebooks billiger: [🇩🇪](https://notebooksbilliger.de) / [🇦🇹](https://notebooksbilliger.at)
 * [Second IT Store](https://second-it-store.de) (Shop für gebrauchte IT, viele Lenovo und HP Laptops, aber auch immer anderes wie Iphones.)
 
-### ⚡️ Elektrotechnik / Smart-Home
+### 🔌 Elektrotechnik / Smart-Home
 * [Elektro-Wandelt.de](https://www.elektro-wandelt.de) (Elektroinstallationsmaterial, Lampen, Smart-Home-Komponenten, Leuchtmittel, alles eher aus dem Profibereich, wenig/keine Chinaware, auch für Privatkunden, oft auf Großhandelspreisniveau. Lieferung zuverlässig, Komponenten Markenware)
 
 ### 🛠️ Werkzeuge / DIY / Handwerken
