@@ -13,3 +13,5 @@ Naturkosmetik für Locken und Afro Haare.
 Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze.
 * [Rosenrot](https://www.rosenrot.de)\
 Pionier im Bereich der natürlichen Haar- und Körperpflege in fester Form.
+* [Zhenobya - Aleppo- und Naturseifen](https://www.zhenobya.de)\
+Traditionell und handwerklich hergestellte Seifen aus dem Morgenland. Z.B. Alepposeife oder Seifen aus Kamel-, Schaf-, Stuten- und Eselsmilch und andere Pflegeprodukte.
