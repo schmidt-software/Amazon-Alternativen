@@ -136,7 +136,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Session](https://www.session.de) (Musikinstrumente)
 * [Thomann](https://www.thomann.de) (Online Shop für Musikinstrumente und allem drum herum. Sehr gute telefonische Beratung.)
 
-### 🔏 Schreibwaren und Bürobedarf
+### 📝 Schreibwaren und Bürobedarf
 * [Bürobedarf Hämpel](https://www.buerobedarf-haempel.de) (Allerlei Schreibwaren und Bürozubehör)
 * [FairToner](https://www.fairtoner.de)
 * [Fountainfeder](https://fountainfeder.de) (Füller, Tinte und passende Papierprodukte (füllerfreundliche Notizbücher, Briefpapier, etc.))
