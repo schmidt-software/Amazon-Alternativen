@@ -195,6 +195,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 
 ### 🏡 Wohnen
 * [avocadostore](https://www.avocadostore.de)
+* [futonwerkstatt](https://shop.futonwerkstatt.de/) (Matrazen, Futons, Betten und zubehör. Manufaktur bei Berlin seit 1987)
 
 ### 💶 2nd Hand / Refurbished
 * [cool blue](https://coolblue.de) (verkaufen auch Retouren als "second chance" etwas günstiger wieder)
