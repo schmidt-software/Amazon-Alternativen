@@ -6,11 +6,12 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 
 ---
 
-### 🏪 Allgemein (gemischte Produktauswahl)
+### 🏪 Allgemein
 * Akkurat: [Akkurat](https://akkurat-gsv.de/shop) (Shop für erneuerbare Energien)
 * AvocadoStore: [🇩🇪](https://www.avocadostore.de) / [🇦🇹](https://www.avocadostore.at) (Marketplace für faire, nachhaltige oder vegane Produkte, vor allem Textilien und Haushaltsgegenstände)
 * [Galaxus](https://www.galaxus.de)
 * Gartenkraftwerke: [Gartenkraftwerke](https://gartenkraftwerke.de) (Shop für erneuerbare Energien)
+* [Kennzeichenprofis.de](https://kennzeichenprofis.de) (günstige Nummernschilder von der Lebenshilfe Werkstätte für behinderte Menschen Schwabach-Roth gGmbH)
 * Memo AG: [Privatkunden](https://www.memolife.de/) / [Geschäftskunden](https://www.memo.de/) (Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt-klima/logistik/memo-box/) und [Radlogistik](https://www.memoworld.de/radlogistik/))
 * Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)
@@ -63,6 +64,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Demmer's Teehaus](https://www.tee.at) (Hochqualitativer Tee und Tee Zubehör)
 * [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
 * [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle (in der Nähe von München) für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
+* [Fairafric](https://fairafric.com/collections/produkte) (Bieten Schokolade, für die nicht nur faire Löhne an Kakaobauern gezahlt wird, sondern die zudem auch komplett in Ghana produziert wird. Komplette Wertschöpfungskette dort.)
 * [Farmshops](https://www.farmshops.eu) (Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.)
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
@@ -76,6 +78,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Marktschwärmer](https://marktschwaermer.de/de) (Regional einkaufen, online bestellen, in der Nähe abholen (Wenn es eine örtliche Marktschwärmerei gibt))
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Nordsee Bär](https://www.nordseebaer.de/) (Fruchtgummis und Lakritz in nordischen Formen und Geschmacksrichtungen)
+* [Obst Verbindet](https://obst-verbindet.de) (Obst und Gemüse retten, arbeiten direkt mit den Erzeugern resp. Grosshändlern zusammen)
 * [Ökokiste](https://www.oekokiste.de) (Netzwerk von Bauern, die Lebensmittel liefern)
 * [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
 * [Schokoladen Outlet](https://www.schokoladen-outlet.de/) (Alles rund um schokolade und Schokoladenbasierte Produkte, Vieles bio, auch vieles vegan)
@@ -134,6 +137,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 ### 🧴 Kosmetik / Drogerie
 * [Ben & Anna](https://ben-anna.de) (Körperpflege, vegan, frei von Plastik)
 * [ECCO Verde](https://ecco-verde.de) (Bio-Kosmetik)
+* [Ferkel & Pfeffer](https://ferkelundpfeffer.com) (handgemachte, vegane Naturkosmetik aus dem Herzen Leipzigs - plastikfrei, geliefert in einer biologisch abbaubaren Verpackung)
 * [natur Pur](https://www.shop-naturpur.de) (Natur Kosmetik)
 * [OMAKA](https://www.omaka.de/) (Naturkosmetik für Locken und Afro Haare)
 * [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
@@ -171,6 +175,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
 * ELV [🇩🇪](https://de.elv.com) / [🇨🇭](https://ch.elv.com) (elektronische Bauteile und -Komponenten)
 * [Fairphone](https://shop.fairphone.com/)
+* [funduino](https://funduinoshop.com/) (Arduinos und Zubehör, auch Filament für 3D-Druck. Schulen erhalten Rabatt.)
 * [funk24](https://shop.funk24.net)
 * [FS](https://www.fs.com/de) (Netzwerkequipment)
 * [Mindfactory](https://www.mindfactory.de) (gute Auswahl zu fairen Preisen, versandkostenfrei im Midnight-Shopping, tlw. sehr günstige Angebote unter Mindstars)
@@ -229,6 +234,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Bavaria-Filaments](https://www.bavaria-filaments.com)
 * [Das Filament](https://www.dasfilament.de)
 * [extrudr](https://www.extrudr.com/de/shop-eu/?locale=de) (österr. Firma, direkt bei mir umme Ecke 😃)
+* [funduino](https://funduinoshop.com/) (Arduinos und Zubehör, auch Filament für 3D-Druck. Schulen erhalten Rabatt.)
 * [Recycling Fabrik](https://recyclingfabrik.com) (nehmen deine Fehldrucke und leeren Filamentspulen kostenlos entgegen, und machen daraus ihr eigenes Filament, welches du in [deren Shop](https://recyclingfabrik.com/shop/) erwerben kannst)
 
 ### ⛵️ Segeln
