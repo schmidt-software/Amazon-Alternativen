@@ -39,6 +39,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Bücher.de](https://buecher.de)
 * [Bücherhallen Hamburg](https://www.buecherhallen.de) (lokales, sehr gutes Angebot, ausschliesslich in Hamburg)
 * [Genial Lokal](https://www.genialokal.de) (Plattform zum Suchen nach lokalen Buchhandlungen)
+* [Koch Kontor](https://koch-kontor.de/) (Kleine Hamburger Buchhandlung spezialisiert auf Kochbücher)
 * [Lehmanns](https://www.lehmanns.de) (der Klassiker)
 * [Links Lesen](https://links-lesen.de) (linker Online Buchladen, selbstverwalteter Kollektivbetrieb)
 * [Wob](https://www.wob.com/de-de) (2nd Hand)
