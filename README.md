@@ -212,6 +212,9 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [12 Seemeilen](https://www.12seemeilen.de) (Bootszubehör und Segelbekleidung)
 * [Compas 24](https://www.compass24.de) (Bootszubehör, Wassersport, Segelbekleidung & Yachtzubehör)
   
+## Andere, extern kuratierte Listen von Händlern
+* 150 [Elektronikversender](https://www.mikrocontroller.net/articles/Elektronikversender) (Liste, welche von Mikrocontroller.net gepflegt wird. Das ist nur eine Weiterleitung)
+* 33 [Eisenwarenversender](https://www.mikrocontroller.net/articles/Eisenwarenversender) (Liste, welche von Mikrocontroller.net gepflegt wird. Das ist nur eine Weiterleitung)
 
 ## Mitmachen
 Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen nutzen bitte die [Issue-Funktion](https://github.com/phranck/Amazon-Alternativen/issues), und tragen dort ihre Ergänzungsvorschläge ein. Es muss nicht jede Ergänzung ein eigenes Issue sein. Gerne auch mehrere als ein Issue verpacken.
