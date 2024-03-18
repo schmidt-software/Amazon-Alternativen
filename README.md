@@ -7,16 +7,15 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 ---
 
 ### 🏪 Allgemein
-* Akkurat: [Akkurat](https://akkurat-gsv.de/shop) (Shop für erneuerbare Energien)
 * AvocadoStore: [🇩🇪](https://www.avocadostore.de) / [🇦🇹](https://www.avocadostore.at) (Marketplace für faire, nachhaltige oder vegane Produkte, vor allem Textilien und Haushaltsgegenstände)
 * [Galaxus](https://www.galaxus.de)
-* Gartenkraftwerke: [Gartenkraftwerke](https://gartenkraftwerke.de) (Shop für erneuerbare Energien)
 * [Kennzeichenprofis.de](https://kennzeichenprofis.de) (günstige Nummernschilder von der Lebenshilfe Werkstätte für behinderte Menschen Schwabach-Roth gGmbH)
 * Memo AG: [Privatkunden](https://www.memolife.de/) / [Geschäftskunden](https://www.memo.de/) (Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt-klima/logistik/memo-box/) und [Radlogistik](https://www.memoworld.de/radlogistik/))
 * Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)
 
 ### ☀️ Erneuerbare Energien
+* Akkurat: [Akkurat](https://akkurat-gsv.de/shop) (Shop für erneuerbare Energien)
 * [Gartenkraftwerke](https://gartenkraftwerke.de) (alles rund ums Thema Solar-, Garten- und Balkonkraftwerke)
 * [Tepto](https://www.tepto.de) (viele verschiedene Angebote für Balkonkraftwerke)
 
@@ -65,7 +64,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Direkt vom Feld](https://direktvomfeld.eu) (Bio-Gewürzmanufaktur)
 * [Drax Mühle](https://shop.drax-muehle.de) (Eine feine kleine Mühle (in der Nähe von München) für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.)
 * [Fairafric](https://fairafric.com/collections/produkte) (Bieten Schokolade, für die nicht nur faire Löhne an Kakaobauern gezahlt wird, sondern die zudem auch komplett in Ghana produziert wird. Komplette Wertschöpfungskette dort.)
-* [Farmshops](https://www.farmshops.eu) (Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.)
+* [Farmshops](https://farmshops.eu) (Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.)
 * [Food Oase](https://foodoase.de) (für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an)
 * [Frank & Schuster](https://frankundschuster.com) (Tee und Süßwaren)
 * [gebana](https://www.gebana.com/eu-de/) (Fairtrade, Vorratsportionen von Lebensmitteln wie (Trocken-)Früchten, Nüssen, Getreide, Tee und mehr)
@@ -122,6 +121,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [manomama](https://www.manomama.de) (**Meine absolute Empfehlung!** Gestartet 2010 als erstes Social Business der regionalen Textilindustrie fertigt manomama heute in einer einzigartigen regionalen Wertschöpfungskette deine ökologische Lieblingskleidung.)
 * [Native Souls](https://www.nativesouls.de) (fair trade Mode, organic, nachhaltig und vegan)
 * [Picksports](https://www.picksport.de) (Klamottenoutlet - sportlastig)
+* [Runamics](https://www.runamics.com/) ("planet-friendly running wear")
 * [Sellpy](https://www.sellpy.de) (Second-Hand)
 * [Skinners](https://skinners.cc/de/) (Minimalistische Barfuß-Schuhe)
 * [Taynie](https://taynie.de) (Periodenunterwäsche, vegan, frei von Bioziden, 60°C waschbar, Tampons, Binden, Cups, Socken, Shorts & Socken für Männer)
