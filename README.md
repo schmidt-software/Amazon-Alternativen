@@ -66,6 +66,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Ökokiste](https://www.oekokiste.de) (Netzwerk von Bauern, die Lebensmittel liefern)
 * [Rii-Jii](https://www.rii-jii.de) (Bio Gourmet Reis)
+* [Schokoladen Outlet](https://www.schokoladen-outlet.de/) (Alles rund um schokolade und Schokoladenbasierte Produkte, Vieles bio, auch vieles vegan)
 * [Schwarzwald Miso](https://www.schwarzwald-miso.de) (Bio Miso aus dem Schwarzwald, vegan)
 * [SirPlus](https://sirplus.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
 * [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
