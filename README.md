@@ -34,7 +34,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 - 33 [Eisenwarenversender](https://www.mikrocontroller.net/articles/Eisenwarenversender) (Liste, welche von Mikrocontroller.net gepflegt wird. Das ist nur eine Weiterleitung)
 
 ## Mitmachen
-Alle die, die mit Codeberg vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen nutzen bitte die [Issue-Funktion](https://codeberg.org/phranck/Amazon-Alternativen/issues), und tragen dort ihre Ergänzungsvorschläge ein. Es muss nicht jede Ergänzung ein eigenes Issue sein. Gerne auch mehrere als ein Issue verpacken.
+Alle die, die mit den Funktionen von Git vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen nutzen bitte die [Issue-Funktion](https://codeberg.org/phranck/Amazon-Alternativen/issues/new?template=.github%2fISSUE_TEMPLATE%2fergänzung.md), und tragen dort ihre Ergänzungsvorschläge ein. Es muss nicht jede Ergänzung ein eigenes Issue sein. Gerne auch mehrere als ein Issue verpacken.
 
 Bitte die Einträge entsprechend ihrer Kategorie alphabetisch sortiert eintragen (als wäre alles klein geschrieben). Danke. 🙏
 

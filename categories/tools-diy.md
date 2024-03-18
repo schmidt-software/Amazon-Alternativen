@@ -9,13 +9,24 @@ Hochwertige Handwerkzeuge, v.a. zur Holzbearbeitung, Mittelständler, sehr guter
 * [FunFabric](https://funfabric.com)\
 Schnittmuster, Stoffe und Kurzwaren.
 * [Grey Element](https://grey-element.shop)
+* [GSR](https://gewindeaufschneider.de/)\
+Gewindeschneider
 * [Kabelscheune](https://www.kabelscheune.de)\
 Große Auswahl an Kabeln für den Heimwerkerbedarf.
+* [KExpress](https://www.kugellager-express.de/)\
+Kugellager
 * [Kunstpark](Kunstpark-Shop.de)\
 Künstlerbedarf, Bastelbedarf, Zeichenbedarf.
 * [ManoMano](https://www.manomano.de)
 * [modulor](https://modulor.de)\
 Künstler- und DIY-Bedarf, haben auch ein Ladengeschäft in Berlin.
 * [Online-Schrauben](https://online-schrauben.de)
+* [Paracord.eu](https://www.paracord.eu/)\
+Paracord und andere Bänder z.B. Leder
+* [Schraubenking](https://schraubenking.at/)\
+Schrauben, Installationstechnik, Seile, Ketten
+* [stoffe.de](https://www.stoffe.de/)
+* [Voelkner](https://www.voelkner.de/)\
+Computer, Elektrik, Elektronik, Zubehör
 * [Voltus](https://www.voltus.de)\
 Große Auswahl und faire Preise für die gängigen Schalterhersteller.

@@ -1,6 +1,8 @@
 ## 🏪 Allgemein
 * [Akkurat](https://akkurat-gsv.de/shop)\
 Shop für erneuerbare Energien.
+* [AUFNAEHER4U](https://aufnaeher4u.de/)\
+Gute Kommunikation, beliebt bei Pfadfindern (gibt sogar Rabatt)
 * AvocadoStore: [🇩🇪](https://www.avocadostore.de) / [🇦🇹](https://www.avocadostore.at)\
 Marketplace für faire, nachhaltige oder vegane Produkte, vor allem Textilien und Haushaltsgegenstände.
 * [Galaxus](https://www.galaxus.de)
@@ -14,3 +16,5 @@ Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt
 Ja, die gibt es noch immer.
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at)\
 Wer kennt ihn nicht, diesen Ramschladen! 😂.
+* [vistaprint](https://www.vistaprint.com/)\
+Dinge bedrucken lassen

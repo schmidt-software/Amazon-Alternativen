@@ -7,7 +7,7 @@ Ein Kollektiv aus Hamburg, das vor allem sehr leckeren Kaffee (aber auch Tee) vo
 Finanziert soziale Projekte in den Bereichen Ernährung und Bildung, indem sie je verkauftes Kilo ihrer Kaffeebohnen €2,50 in ein soziales Projekt einzahlen.
 * [Berief Food](https://www.berief-food.de)\
 Verschickt leckere, lokal produzierte Bio- Pflanzenmilch.
-* [Besserfleich](https://besserfleisch.de)\
+* [Besserfleisch](https://besserfleisch.de)\
 Deutsches Kleinunternehmen das Cow-Sharing betreibt. Schlachtung erst bei kompletter Verwertung. Premiumfleisch.
 * [CrowdFarming](https://www.crowdfarming.com/de)\
 Versendet die Lebensmittel von Bauern im Direktverkauf, wir holen da Obst, Wein und Käse direkt bei den Erzeuger*innen.
@@ -19,7 +19,7 @@ Bio-Gewürzmanufaktur.
 Eine feine kleine Mühle (in der Nähe von München) für Mehl, Getreide und Zubehör. Regional und auch mit Bio-Sortiment.
 * [Fairafric](https://fairafric.com/collections/produkte)\
 Bieten Schokolade, für die nicht nur faire Löhne an Kakaobauern gezahlt wird, sondern die zudem auch komplett in Ghana produziert wird. Komplette Wertschöpfungskette dort.
-* [Farmshops](https://www.farmshops.eu)\
+* [Farmshops](https://farmshops.eu)\
 Ein OSM basiertes Projekt das Informationen zu Hofläden, Milchtankstellen und Direktverkaufsautomaten sammelt. Ermöglicht das regionale Einkaufen, auch wenn man auf Reisen/im Urlaub ist, und kann von Usern ergänzt werden.
 * [Food Oase](https://foodoase.de)\
 Für Leute mit Lebensmittelallergien/-unverträglichkeiten. Man kann sehr gut gängige Allergene rausfiltern und sie bieten bei vielen Dingen Mengenrabatt an.
