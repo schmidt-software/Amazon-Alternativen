@@ -23,6 +23,8 @@ Barfußschuhe.
 Fair trade Mode, organic, nachhaltig und vegan.
 * [Picksports](https://www.picksport.de)\
 Klamottenoutlet - sportlastig.
+* [Runamics](https://www.runamics.com/)\
+"planet-friendly running wear"
 * [Sellpy](https://www.sellpy.de)\
 Second-Hand.
 * [Skinners](https://skinners.cc/de/)\
