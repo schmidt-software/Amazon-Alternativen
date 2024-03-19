@@ -32,6 +32,8 @@ Schwerpunkt Technik, große Auswahl und mitunter gute Angebote, 4.6/5 Trusted-Sh
 * Reichelt: [🇩🇪](https://www.reichelt.de) / [🇦🇹](https://www.reichelt.at)
 * [Shelly](https://www.shelly.com/)
 * [Shift](https://shop.shiftphones.com/)
+* [Soldered](https://soldered.com/de/)\
+Europäischer Shop für Elektronikkomponenten und "Makerware".
 * [Tindie](https://www.tindie.com)\
 Massig DYI Hardware Nerd Kram.
 * [Voelkner](https://www.voelkner.de/)\
