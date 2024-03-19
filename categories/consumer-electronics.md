@@ -14,7 +14,8 @@ Elektronische Bauteile und -Komponenten.
 * [Fairphone](https://shop.fairphone.com/)
 * [funduino](https://funduinoshop.com/)\
 Arduinos und Zubehör, auch Filament für 3D-Druck. Schulen erhalten Rabatt.
-* [funk24](https://shop.funk24.net)
+* [funk24](https://shop.funk24.net)\
+Shop aus Aachen. Verkauft alles rund ums Amateurfunken.
 * [FotoKoch](https://www.fotokoch.de/)\
 fotografie und Zubehör
 * [FS](https://www.fs.com/de)\
