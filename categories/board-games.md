@@ -2,7 +2,8 @@
 * [Drive Through RPG](https://www.drivethrurpg.com/)\
 Verschiedenste Rollenspiele ohne DRM, steht auch für Hobbyisten offen.
 * [Fantasy Welt](https://www.fantasywelt.de)
-* [GaiaGames](https://gaiagames.de)\
+* [GaiaGames](https://gaiagames.de)
+* [Sphärenmeisters Spiele](https://www.sphaerenmeisters-spiele.de/)\
 Lehrreiche und kooperative Brettspiele, umweltschonend produziert.
 * [Lurch & Lama](https://lurchundlama.de)\
 Spiele und Merch.
