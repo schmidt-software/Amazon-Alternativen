@@ -9,7 +9,7 @@ Verkaufen auch Retouren als "second chance" etwas günstiger wieder.
 * [Die moderne Hausfrau](https://www.moderne-hausfrau.de/)\
 Haushalts und Küchengeräte
 * [Elektroshop Wagner](https://www.elektroshopwagner.de)
-* ELV [🇩🇪](https://de.elv.com) / [🇨🇭](https://ch.elv.com)\
+* ELV [🇩🇪](https://de.elv.com) / [🇦🇹](https://at.elv.com) / [🇨🇭](https://ch.elv.com)\
 Elektronische Bauteile und -Komponenten.
 * [Fairphone](https://shop.fairphone.com/)
 * [funduino](https://funduinoshop.com/)\
