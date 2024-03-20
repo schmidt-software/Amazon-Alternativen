@@ -46,3 +46,6 @@ Diese Liste entstand am Vormittag des 17. März 2024 als fixe Idee von mir, als 
 Zu meinem grossen Erstaunen uferte das Ganze innerhalb weniger Stunden komplett aus, und der Sonntag war für mich erstmal halbwegs gegessen. Ich bin mit dem Kuratieren und Nachtragen kaum noch hinterher gekommen. 😃
 
 Wenn sich das hier noch weiter aufbläht, wird das bestimmt sehr schnell sehr unübersichtlich. Ich werde dann darûber nachdenken, evtl. eine eigene Website dafür zu bauen. Schaumermal...
+
+## License
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://codeberg.org/phranck/Amazon-Alternativen">Amazon Alternativen</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://chaos.social/@phranck">Frank Gregor</a> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
