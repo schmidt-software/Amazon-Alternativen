@@ -47,5 +47,5 @@ Zu meinem grossen Erstaunen uferte das Ganze innerhalb weniger Stunden komplett 
 
 Wenn sich das hier noch weiter aufbläht, wird das bestimmt sehr schnell sehr unübersichtlich. Ich werde dann darûber nachdenken, evtl. eine eigene Website dafür zu bauen. Schaumermal...
 
-## License
+## Lizenz
 Diese Liste von [Frank Gregor](https://chaos.social/@phranck) steht unter der [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) Lizenz.
