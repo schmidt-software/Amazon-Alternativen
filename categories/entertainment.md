@@ -8,6 +8,8 @@ Kostenloser Versand.
 * [Discogs](https://www.discogs.com)
 * [Foto Mundus](https://www.foto-mundus.de)\
 Bietet diverse Kameras, Zubehör und auch gebrauchte Bodys und Objektive.
+* [HHV](https://www.hhv.de)\
+Schallplatten/Vinyl und Streetwear
 * [jpc](https://www.jpc.de)
 * [mpb](https://www.mpb.com/de-de)\
 Hochwertige, gebrauchte Foto- und Kameraausrüstung.
