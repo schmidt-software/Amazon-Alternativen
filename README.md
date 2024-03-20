@@ -48,4 +48,4 @@ Zu meinem grossen Erstaunen uferte das Ganze innerhalb weniger Stunden komplett 
 Wenn sich das hier noch weiter aufbläht, wird das bestimmt sehr schnell sehr unübersichtlich. Ich werde dann darûber nachdenken, evtl. eine eigene Website dafür zu bauen. Schaumermal...
 
 ## License
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://codeberg.org/phranck/Amazon-Alternativen">Amazon Alternativen</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://chaos.social/@phranck">Frank Gregor</a> is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0</a></p>
+Diese Liste von [Frank Gregor](https://chaos.social/@phranck) steht unter der [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) Lizenz.
