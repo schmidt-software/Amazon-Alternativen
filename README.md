@@ -11,7 +11,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 - 🔭 [Astronomie](categories/astronomy.md)
 - 🧩 [Brettspiele / Tabletop / Rollenspiele](categories/board-games.md)
 - 📚 [Bücher](categories/books.md)
-- [Cannabis](categories/cannabis.md)
+- 🍂 [Cannabis](categories/cannabis.md)
 - 🖥️ [Computer](categories/computer.md)
 - 🔌 [Elektrotechnik / Smart-Home](categories/smart-home.md)
 - ☀️ [Erneuerbare Energien](categories/renewable-energies.md)
